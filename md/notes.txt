@@ -1,0 +1,24 @@
+INTRO:
+
+- Welcome to my homepange
+- motywacja dlaczego przyjechali na warsztaty
+- nasze motywacje odnosnie prowadzenia warsztatów
+	- studia przygotowuja do czegos innego
+	- anegdota odnosnie rozmow rekrutacyjnych
+	- nasze cv
+	- o tym jak randomowo wybiera się sciezke kariery
+ 
+- warsztaty to open disccusion wiec wszelkie ciekawostki ze strony audiencji są na miejscu
+- plan całych warsztatów
+	- wprowadzanie i how did we get here
+	- building block
+		- backend + db
+		- ux
+		- front
+		- api
+	- specyfika projektów w IT
+	- skalowalność (Cloud i Architektura)
+	- kilka słów o security
+	- ścieżki kariery
+	- a jak to wygląda w eestecu (eestec.net i IT team)
+	
