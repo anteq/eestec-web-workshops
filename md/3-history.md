@@ -65,6 +65,10 @@ Note:
 - wyszukac z alexie ciekawostki o eestecu
 	- zeby dostac sie na eestec net mozna wejsc przez link w stopce w odpowiedzi na post na jakims forum
 	- http://plone.293351.n2.nabble.com/How-export-proxy-from-python-script-on-ZMI-td5592932.html
+- przygotowac grafike z najwazniejszymi wydarzeniami 
+- do 91 roku wersja http byla 0.9 - bylo tylko GET dopiero w 1.0 wprowadzili POST 
 
+# Zadanie:
+Napisac strone w C albo innym smiesznym jezyku
 
 

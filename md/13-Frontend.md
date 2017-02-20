@@ -1,0 +1,32 @@
+- strona nie tylko musi byc ładna ale też funkcjonalna i intuicyjna
+- Frontend developer:
+	- grafik i template html i css (freelancerstwo)
+	- JS ale Twój kod nie jest widoczny dla kienta, czyli łączysz sie z API i zbierasz dane
+- w brażny nie ma ustalonej nomenklatury, web designer/frontend java script developer
+- frontend głównie w JS, nie am dowolności - jedyny język wspierany przez wszystkie przeglądarki to JS
+- powrót do historii - html -treść, css - kolorki, js - w pierwszych wersjacsh służył tylko do animacji
+	- devoloperzy przeglądarek zgodzili się do JS tak samo jak wczesniej zgodzili sie co do html i css
+	- JS to funkcyjny jezyk który powstał stosunkowo szybko (w przeciwieństwie do C/C++) i w podstawowej wersji jest dość prosty (np. nie ma klas)
+	- learning curve - easy to learn, hard to master
+- frontend skada sie z 3 częsci, ważne zeby powiedzieć ze html nie jest językiem programowania (może bliżej mu do templatów) - sposób zorganizowania informacji
+- css - sposób żeby pokazac w łatwy sposób surowe informacje - to też nie jest język programowania - bo nie można tam niczego wykonać; posiada tylko informacje w jaki spó” zaprezentować info
+- js - wreszcie język programowania
+
+- drzewo DOM
+	- html to drzewo, style zczytywane do odpowiednich miejsc  w drzewach, JS może operowac na tym wszystkim w jaki sposób jej się podoba
+- dla web developera dużym problem jest różnorodność przeglądarkowa - niektóre rzeczy się inaczej renderują w róznych przeglądarkach (PRZYKŁAD!!)
+- IE6 - największy koszmar programisty - brak wsparcia dla nowych funkcjonalności, wszystkie starsze przeglądarki zostały wycofane z użytku
+warto podać przykłady !!!!!!!!!!!!!!!
+- Jquery - najpopularniejsza biblioteka JS - po to, żeby ułatwić życie developerowi
+PRZYKŁAD
+- czyli sprawdzanie z jakiej przeglądarki korzystamy
+- dzisiaj juz nie ma takich różnic - największe róznice w css ale wciąż Jquery jest bardzo popularne bo ma wiele pluginów (gotowców) z których łatwo można korzystać
+- Antek jest purystą jezykowym dlatego jesli nie musi korzystac z Jquery to tego nie robi
+- w nowych wersjach JS są funkcjonalnosci które jeszcze nie są wspierane przez wszystkie przeglądarki
+- JS jest językiem całkowicie interpretowanym; 
+- transpilacja - przetworzenie kodu w taki sposób, że nowa składania zostaje zamieniona w starą żeby nie powodować problemów
+- minifikacja 
+- przejście z Web na WEB2.0
+- webGL
+- coraz mnie potrzeba instalować programów a coraz wiecej dostępne jest w przeglądarce
+- hot temat 2017 roku - progressive web application - głównie na mobilkach - czyli wchodzac przez przeglądarke pokaże się dokładnie ta sama aplikacja co zainstalowana przez app store
