@@ -22,3 +22,11 @@ INTRO:
 	- ścieżki kariery
 	- a jak to wygląda w eestecu (eestec.net i IT team)
 	
+
+
+# ESTYMATY:
+- Intro 0.5 h
+- historia 1.5 h
+- cwiczenia 0.75 h
+- slajdy backend i db 1.25 h
+

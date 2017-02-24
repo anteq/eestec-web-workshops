@@ -1,0 +1,14 @@
+- test w necie która sciezka w IT jest dla Ciebie najlepsza
+- Fajny filmik na yt - kwadrat ze scieżkami kariery
+- nie bac się pracowac jako student - nauka na czyjś koszt
+- warto skonczyć studia
+- Web Dev to dziedzina na która łatwo sie przekwalifikować - ale potrzeba do tego samozaparcia i dużo pracy
+- praca kreatywno mechaniczna - najprosciej na Frontend
+- jak wygląda przyszłość informatyka: mało informatyków dalej pracuje jako programista po 20 latach pracy
+	- management
+	- zarządzanie
+	- przekwalifikowanie na inną poddziedzine IT
+	- własny biznes
+	- mentoring
+- nie wszystko jest dla wszystkich 
+- przejście z Senior deva na IT leada - zarządzanie zespołem programistów - trzeba miec do tego inne skille wiec nie zawsze naturalny proces w korpo jest optymalny
