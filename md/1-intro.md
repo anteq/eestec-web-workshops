@@ -4,6 +4,9 @@ Logo warsztatow
 
 ## Greetings my friends
 
+## cos tam
+ ![yt](DjoSdVJiO7g)
+
 ## Why we are standing here like morons
  ![thing](md/1-intro_img/Scared_Harry&Ron.gif)
 Note:
