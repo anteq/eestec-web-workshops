@@ -15,7 +15,7 @@ How it is at your countries? Do you pursue such studies?
 After some experience, a (software) engineer notices that most of his effort is spent not on actual coding, but on thinking how the code should be structured.
 
 ### Thesis 4
-Web developer career is an attractive one to pursue.
+Web developer's career is an attractive one to pursue.
 Note:
 Fotka jakiegoś developera na wakacjach
 
