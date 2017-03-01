@@ -1,14 +1,58 @@
-- test w necie która sciezka w IT jest dla Ciebie najlepsza
-- Fajny filmik na yt - kwadrat ze scieżkami kariery
-- nie bac się pracowac jako student - nauka na czyjś koszt
-- warto skonczyć studia
-- Web Dev to dziedzina na która łatwo sie przekwalifikować - ale potrzeba do tego samozaparcia i dużo pracy
-- praca kreatywno mechaniczna - najprosciej na Frontend
-- jak wygląda przyszłość informatyka: mało informatyków dalej pracuje jako programista po 20 latach pracy
-	- management
-	- zarządzanie
-	- przekwalifikowanie na inną poddziedzine IT
-	- własny biznes
-	- mentoring
-- nie wszystko jest dla wszystkich 
-- przejście z Senior deva na IT leada - zarządzanie zespołem programistów - trzeba miec do tego inne skille wiec nie zawsze naturalny proces w korpo jest optymalny
+# Slow Start
+Anybody needs a coffe?
+ ![thing](md/10-carrier-path_img/tumblr_m2n06sUe1b1rttnhxo1_500.jpg)
+
+## How about a little predisposition test?
+Note:
+Czy szukamy jakiegos testu na ścieżke kariery?
+
+## Movie time
+ ![fimlik na yt o kwadratach ze ścieżkami kariery]()
+
+## Are you too young to work?
+- You are students
+- You are young
+- You are free (almost)
+Note:
+Jesteśmy tanią siłą roboczą ale możemy to wykorzystać na naszą korzyść
+Firmy chcą w nas inwestować więc im pozwólmy
+
+## Finishing your education might be profitable:
+- things you can experience as a student
+- learn for somebody else's money :)
+- start your professional career with experience in your field
+
+## You don't like your current job? Don't be afraid to change it for a different one!
+
+### Web(Platform 9 3/4) Dev
+- relatively easy to begin with
+- creativelly repetetive
+- probably easiest way in - Frontend
+
+## What future has planned for you?
+Note:
+Można ich zapytać gdzie widzą się za 20 lat
+
+## Antek after 20 years of working
+- High Level Manager?
+- Company Management Department?
+- Greenhorn Mentor?
+- His own boss?
+- Other IT field?
+
+## But how does he find time to code?
+### Easy - he doesnt! O.o
+
+## We're only human after all
+- You don't have to be awesome at everything
+- You have the luxury of defining your own path by yourself
+
+## Fear corpo carrer path
+- Senior developer into IT Lead transition
+- But not everybody has Leader qualities
+# Outcome:
+It's quite common to be thrown into doing things you don't have to be good at
+
+## Not being on Manager seat can also be fullfilling
+
+

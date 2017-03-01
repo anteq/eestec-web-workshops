@@ -1,4 +1,9 @@
-- Ćwiczenie z onetu (20 min)
+## Short excercise for a good beginning
+Note: 
+Ćwiczenie z onetu (20 min)
+
+# Model View Controller
+## but also Model Template View
 - MVC (wzorzec Model View Controller i jego odmiany) i jak jest robione gdzie indziej
 - do zrobienia dobrej strony potrzebny jest tylko dobrze zrobiony backend 
 - frontendowe frameworki są głównie potrzebne do komunikacji z api
