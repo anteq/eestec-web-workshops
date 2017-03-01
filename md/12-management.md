@@ -1,3 +1,5 @@
+# Management in IT
+
 - różnica miedzy inżynierem budowlańcem a inżynierem informatykiem (zrobienie mostu vs zrobienie aplikacji)
 - w IT klient przewaznie nie wie czego chce a ni firma wykonawcza tez tego nie wie
 	- klientowi wydaje sie ze wie czego chce ale tak szybko zmienia sie sytuacja na rynku w stosunku do czasu realizacji ze zanim problem zostanie rozwiazany nie bedzie to juz potrzebne

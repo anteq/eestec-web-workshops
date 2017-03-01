@@ -1,5 +1,7 @@
+# Career paths
+
 # Slow Start
-Anybody needs a coffe?
+Anybody needs a coffee?
  ![thing](md/10-carrier-path_img/tumblr_m2n06sUe1b1rttnhxo1_500.jpg)
 
 ## How about a little predisposition test?

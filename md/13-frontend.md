@@ -1,3 +1,7 @@
+# Frontend
+
+
+# topics
 - strona nie tylko musi byc ładna ale też funkcjonalna i intuicyjna
 - Frontend developer:
 	- grafik i template html i css (freelancerstwo)
