@@ -392,9 +392,23 @@
 			}
 
 			var options = Reveal.getConfig().markdown;
-
+			var customRenderer = new marked.Renderer();
+			customRenderer.image = function(href, title, text){
+				if (text && text.indexOf("yt") === 0){
+					return '<iframe width="560" height="315" src="https://www.youtube.com/embed/' + href + '" frameborder="0" title="'+ text.slice(2) +'" allowfullscreen></iframe>';
+				}
+				var out = '<img src="' + href + '" alt="' + text + '"';
+				if (title) {
+					out += ' title="' + title + '"';
+				}
+				out += this.options.xhtml ? '/>' : '>';
+				return out;
+			}
 			if ( options ) {
+				options.renderer = customRenderer;
 				marked.setOptions( options );
+			} else {
+				marked.setOptions({ renderer: customRenderer });
 			}
 
 			processSlides();

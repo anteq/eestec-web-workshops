@@ -1,13 +1,15 @@
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
 # Web platform 9 3/4
 Note:
 Logo warsztatow
 
 ## Greetings my friends
 
+## cos tam
+ ![yt](DjoSdVJiO7g)
+
 ## Why we are standing here like morons
- ![thing](md/1-intro_img/Scared_Harry&Ron.gif)
-Note:
-zdjecie rona
+<!-- .slide: data-background-image="md/1-intro_img/Scared_Harry&Ron.gif" -->
 
 ### Studies vs reality
 Note:
@@ -21,6 +23,7 @@ Note:
 - BARNEY STINSON SMIESZNY FILMIK
 
 ### Our first real life job experience
+
 ### EESTEC beacon workshops 
 Note:
 do zmiany dodac zdj
