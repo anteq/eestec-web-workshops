@@ -17,12 +17,21 @@ Note:
 - łączenie komputerow dosc nowa sprawa
 - można jeszcze kilka ciekawostek wstawić
 
+# phones
+
+# packet switching and circuit switching
+
+# ARPANET
+
 ##  
 Note: obrazek z historią Internetu
+
 # what did the websites look in the beginning of the internet?
 Note:
 - show some examples
 - ask for some examples
+
+e.g. http://home.mcom.com/home/welcome.html
 
 # functionality
 Note:
@@ -43,6 +52,8 @@ Note:
     - everything is connected now
 Note:
 - wiele programow nie wymaga bycia zainstalowanymi lokalnie na kompie - bo CLOUD
+
+# Major change in thinking!
 
 # e.g. 
 - Office 365, Google Docs

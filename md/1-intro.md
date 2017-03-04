@@ -8,14 +8,16 @@ Logo warsztatow
 ## cos tam
  ![yt](DjoSdVJiO7g)
 
-## Why we are standing here like morons
 <!-- .slide: data-background-image="md/1-intro_img/Scared_Harry&Ron.gif" -->
+## Why we are standing here like morons
 
+<!-- .slide: data-background-image="http://agnieszkakochan.pl/wp-content/uploads/2016/05/hogwart.jpg" -->
 ### Studies vs reality
 Note:
 zdjecie Hogwartu
 
 ### Your first IT job
+<!-- .slide: data-background-image="http://www.elysium-uk.com/site/wp-content/uploads/2012/04/young-steve-jobs.jpg" -->
 Note:
 - Some of you already had their first time ^^hihi. 
 - Wywiazac dyskusje, 
@@ -39,9 +41,6 @@ but it doesnt mean you are fucked
 
 ### IT landscape is changing so rapidly that there’s no point in focusing on learning one language or framework
 
-### High-level approach stays the same
-
-## Your reasons for joining us today
 
 # Practical guidelines
 - 5 days of magic journey <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -52,7 +51,7 @@ Note:
 If you have some examples, some insights, you agree or disagree with sth that we said - let's talk
 Don't ask us about peeing or puking breaks!! We are only humans after all
 
-## Content
+### Content
 - Introduction (You are here now) <!-- .element: class="fragment" data-fragment-index="1" -->
 - History <!-- .element: class="fragment" data-fragment-index="1" -->
 - Building blocks: <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -69,7 +68,7 @@ Don't ask us about peeing or puking breaks!! We are only humans after all
 Note:
 Dodac pointer z mapy zeby bylo wiadomo o co kaman
 
-# What we're going to talk about 
+### What we're going to talk about 
 Quite varied:
 - some history <!-- .element: class="fragment" data-fragment-index="1" -->
 - some theory <!-- .element: class="fragment" data-fragment-index="3" -->

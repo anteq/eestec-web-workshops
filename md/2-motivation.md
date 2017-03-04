@@ -13,9 +13,13 @@ How it is at your countries? Do you pursue such studies?
 
 ### Thesis 3
 After some experience, a (software) engineer notices that most of his effort is spent not on actual coding, but on thinking how the code should be structured.
+![https://imgs.xkcd.com/comics/efficiency.png](https://imgs.xkcd.com/comics/efficiency.png)
 
 ### Thesis 4
 Web developer's career is an attractive one to pursue.
 Note:
 Fotka jakiegoś developera na wakacjach
 
+## High-level approach stays the same
+
+## Your reasons for joining us today
