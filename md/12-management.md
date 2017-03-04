@@ -1,4 +1,4 @@
-# IT projects
+# Psychology & IT
 
 ![https://s-media-cache-ak0.pinimg.com/736x/23/bb/19/23bb19d042bbe5b3ce76714952b2e550.jpg](https://s-media-cache-ak0.pinimg.com/736x/23/bb/19/23bb19d042bbe5b3ce76714952b2e550.jpg)
 
@@ -7,8 +7,6 @@ Usually client don't know what they want.
 
 Expert (you) vs. business guys
 [https://www.youtube.com/watch?v=BKorP55Aqvg](https://www.youtube.com/watch?v=BKorP55Aqvg)
-
-
 
 
 - różnica miedzy inżynierem budowlańcem a inżynierem informatykiem (zrobienie mostu vs zrobienie aplikacji)
@@ -52,7 +50,8 @@ https://github.com/kdeldycke/awesome-falsehood
 It's really easy to start doing some stuff. Like *Javascript*.
 
 ![http://i.imgur.com/er0tV3O.jpg](http://i.imgur.com/er0tV3O.jpg)
-
+Note: 
+Podzielic to na pojedyncze obrazki
 
 ---
 
@@ -73,7 +72,17 @@ On the other hand...
 truth is in between :)
 ![http://www.kitfoxgames.com/Images/imposter.jpg](http://www.kitfoxgames.com/Images/imposter.jpg)
 
---- 
+![https://s-media-cache-ak0.pinimg.com/originals/e7/c8/1c/e7c81c227eb4774594b456ef33e6f48a.jpg](https://s-media-cache-ak0.pinimg.com/originals/e7/c8/1c/e7c81c227eb4774594b456ef33e6f48a.jpg)
+
+---
 
 Every student's worst nightmare... 
 [https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl)
+
+---
+
+Gartner's hype cycle
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/320px-Gartner_Hype_Cycle.svg.png
+http://blogs.gartner.com/smarterwithgartner/files/2015/10/EmergingTech_Graphic.png
+
+
