@@ -11,11 +11,11 @@ Logo warsztatow
 - students of MSc in ICT here at AGH <!-- .element: class="fragment" data-fragment-index="2" -->
 - EESTECers for 3rd year now <!-- .element: class="fragment" data-fragment-index="3" -->
 
-<!-- .slide: data-background-image="../img/kyn.jpg" -->
+<!-- .slide: data-background-image="img/kyn.jpg" -->
 
-<!-- .slide: data-background-image="../img/fin.jpg" -->
+<!-- .slide: data-background-image="img/fin.jpg" -->
 
-<!-- .slide: data-background-image="../img/hacks.jpg" -->
+<!-- .slide: data-background-image="img/hacks.jpg" -->
 Note:
 dodac zdj
 - ALOC
