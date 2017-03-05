@@ -3,48 +3,78 @@
 Note:
 Logo warsztatow
 
-## Greetings my friends
-
-## cos tam
- ![yt](DjoSdVJiO7g)
-
 <!-- .slide: data-background-image="md/1-intro_img/Scared_Harry&Ron.gif" -->
-## Why we are standing here like morons
+## So this is us
+
+## Ok so, we're
+- Antek & Boitec <!-- .element: class="fragment" data-fragment-index="1" -->
+- students of MSc in ICT here at AGH <!-- .element: class="fragment" data-fragment-index="2" -->
+- EESTECers for 3rd year now <!-- .element: class="fragment" data-fragment-index="3" -->
+
+<!-- .slide: data-background-image="../img/kyn.jpg" -->
+
+<!-- .slide: data-background-image="../img/fin.jpg" -->
+
+<!-- .slide: data-background-image="../img/hacks.jpg" -->
+Note:
+dodac zdj
+- ALOC
+- Finlandia
+- Barca
+- Hackathony
+
+### Motivation
+# Why?
+
+<!-- .slide: data-background-image="http://www.craveonline.com/images/stories/2011/Film/The%20Series%20Project/Harry%20Potter/Harry_Potter_1_Ron_and_Hermione.jpg" -->
+### Thesis 1
+Coding is relatively easy to learn at home, if you're motivated enough.
+Note:
+One of great resources is Codecademy.
 
 <!-- .slide: data-background-image="http://agnieszkakochan.pl/wp-content/uploads/2016/05/hogwart.jpg" -->
-### Studies vs reality
+### Thesis 2
+Studies programmes usually don't keep up with the rapid development of IT world.
 Note:
-zdjecie Hogwartu
+How it is at your countries? Do you pursue such studies?
 
-### Your first IT job
-<!-- .slide: data-background-image="http://www.elysium-uk.com/site/wp-content/uploads/2012/04/young-steve-jobs.jpg" -->
+<!-- .slide: data-background-image="http://vignette1.wikia.nocookie.net/harrypotter/images/b/b3/Library2.JPG" -->
+### Thesis 3
+After some experience, a (software) engineer notices that most of his effort is spent not on actual coding, but on thinking how the code should be structured.
+
+![https://imgs.xkcd.com/comics/efficiency.png](https://imgs.xkcd.com/comics/efficiency.png)
+
+<!-- .slide: data-background-image="https://assets.entrepreneur.com/content/3x2/1300/20160618102315-Travelentrepreneurs.jpeg" -->
+### Thesis 4
+Web developer's career is an attractive one to pursue.
+Note:
+web development is one of career paths that can be cool AND fulfilling AND make you rich AND you can travel a lot AND basically you can do anything you want :P
+
+<!-- .slide: data-background-image="http://vignette1.wikia.nocookie.net/harrypotter/images/8/89/7-potters.jpg" -->
+### Thesis 5
+IT landscape is changing so rapidly that there might be point in focusing on learning just one language or framework...
+
+<!-- .slide: data-background-image="http://www.opydo.pl/wp-content/uploads/2016/09/hp.jpg" -->
+### Thesis 5.5
+... but high-level approach stays more or less the same.
+
+<!-- .slide: data-background-image="http://www.b2technews.com/uploads/7/0/9/2/7092377/1849999_orig.jpeg" -->
+### Thesis 6
+Thorough understanding of principles of web is crucial on your interview.
 Note:
 - Some of you already had their first time ^^hihi. 
 - Wywiazac dyskusje, 
 - Kiedy zaczynaja prace w zawodzie w swoim kraju 
 - BARNEY STINSON SMIESZNY FILMIK
 
-### Our first real life job experience
+<!-- .slide: data-background-image="http://cdn2.crushable.com/wp-content/uploads/2014/06/Harry-Potter-who-are-you.gif" -->
+Your reasons for joining us today? :)
 
-### EESTEC beacon workshops 
-Note:
-do zmiany dodac zdj
-- ALOC
-- Finlandia
-- Barca
-- Hackathony
+---
 
-### Russian rullet
-Note:
-While you are not sure what to do now you might be forced to choose anyway 
-but it doesnt mean you are fucked
-
-### IT landscape is changing so rapidly that there’s no point in focusing on learning one language or framework
-
-
-# Practical guidelines
+### Practical guidelines
 - 5 days of magic journey <!-- .element: class="fragment" data-fragment-index="1" -->
-- open discussion (talking >> lecturing) <!-- .element: class="fragment" data-fragment-index="3" -->
+- open discussion (talking >> lecturing) <!-- .element: class="fragment" data-fragment-index="2" -->
 - help yourself with beverages and pumpkin pasties <!-- .element: class="fragment" data-fragment-index="4" -->
 - short breaks included <!-- .element: class="fragment" data-fragment-index="3" -->
 Note:
@@ -79,5 +109,5 @@ Quite varied:
 - some magic spells <!-- .element: class="fragment" data-fragment-index="6" -->
 
 you can follow the presentation on http://anteq.github.io/eestec-web-workshops/ :)	
- 
-	
+
+### Ready?

@@ -6,8 +6,7 @@
 Usually client don't know what they want. 
 
 Expert (you) vs. business guys
-[https://www.youtube.com/watch?v=BKorP55Aqvg](https://www.youtube.com/watch?v=BKorP55Aqvg)
-
+ ![yt](BKorP55Aqvg)
 
 - różnica miedzy inżynierem budowlańcem a inżynierem informatykiem (zrobienie mostu vs zrobienie aplikacji)
 - w IT klient przewaznie nie wie czego chce a ni firma wykonawcza tez tego nie wie
