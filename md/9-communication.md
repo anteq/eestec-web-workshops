@@ -75,7 +75,9 @@ CRUD also known as HTTP verbs
 - add methods to this endpoints
 
 ## Level 3
-
+### HATEOAS (Hypermedia As The Engine Of Application State)
+Note:
+The principle is that a client interacts with a network application entirely through hypermedia provided dynamically by application servers.
 
 ----
 
