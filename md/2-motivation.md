@@ -1,5 +1,5 @@
 # Motivation
-Why such workshops?
+Why?
 
 ### Thesis 1
 Coding is relatively easy to learn at home, if you're motivated enough.
@@ -17,9 +17,14 @@ After some experience, a (software) engineer notices that most of his effort is 
 
 ### Thesis 4
 Web developer's career is an attractive one to pursue.
+
+<!-- .slide: data-background-image="https://assets.entrepreneur.com/content/3x2/1300/20160618102315-Travelentrepreneurs.jpeg" -->
 Note:
-Fotka jakiegoś developera na wakacjach
+web development is one of career paths that can be cool AND fulfilling AND make you rich AND you can travel a lot AND basically you can do anything you want :P
+
 
 ## High-level approach stays the same
+
+
 
 ## Your reasons for joining us today

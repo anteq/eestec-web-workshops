@@ -1,11 +1,13 @@
 # FRONTEND
 
+![http://scontent.cdninstagram.com/t51.2885-15/e35/12383373_840841069358317_1096055011_n.jpg?ig_cache_key=MTIyNDYzMTMyNzczNjI3NTEwMg%3D%3D.2](http://scontent.cdninstagram.com/t51.2885-15/e35/12383373_840841069358317_1096055011_n.jpg?ig_cache_key=MTIyNDYzMTMyNzczNjI3NTEwMg%3D%3D.2)
+
 ## You see frontend you think...
 Note:
 You probably think about web user interface and what client sees
 
 ## Difficult part is to nail intuitivness and functionality at the same time
-//Paulo Cohelo
+//Paulo Coelho
 Note:
 - strona nie tylko musi byc ładna ale też funkcjonalna i intuicyjna
 
@@ -15,8 +17,10 @@ Note:
 Note:
 Frontend - freelancer job, ninja uses JS
 
+[http://wrzuc.se/images/58bb4c74c80a4.png](http://wrzuc.se/images/58bb4c74c80a4.png)
 
 ## Surfing LinkedIn might get you a little bit confused
+
 ### Ways to describe frontend developer:
 - web designer
 - frontend java script developer
