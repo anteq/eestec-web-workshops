@@ -41,6 +41,20 @@ https://github.com/kdeldycke/awesome-falsehood
 - Divide into houses and prepare presentation about selected falsehoods. 
 - You can of course use some other sources.
 - 15 min?
+Note:
+Najciekawsze według Wojtka:
+- Falsehoods About Online Shopping
+- Falsehoods About Time
+- I Knew How to Validate an Email Address Until I Read the RFC
+- Falsehoods About Names
+- Gay Marriage: The Database Engineering Perspective
+- Personal Names Around the World
+- Fallacies of Distributed Computing ????
+- Falsehoods About Phone Numbers
+- Falsehoods About Women In Tech
+- Myths About File Paths
+- Falsehoods About REST APIs
+- Falsehoods About CSVs
 
 ---
 
