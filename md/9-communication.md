@@ -1,4 +1,13 @@
-## API
+# Communication
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
+
+Well... Internet is about communication. <br />
+Internet = communication. XD
+
+---
+
+#### Communication
+# API
 
 API = Application Programming Interface
 
@@ -242,3 +251,9 @@ But... both are not very efficient, right?
 
 ![http://wrzuc.se/images/58bb6835abe05.jpg](http://wrzuc.se/images/58bb6835abe05.jpg)
 Websockets aren't replacement for HTTP, they're more of an extension.
+
+---
+
+#### Communication
+# Explore the API
+

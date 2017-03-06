@@ -1,4 +1,10 @@
-# HISTORY
+# History
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
+
+---
+
+#### History
+# How'd we get here?
 
 ## Let's start nostalgic
 # First PCs
@@ -42,6 +48,11 @@ Note:
 - now only games and specialistic programmes
 Note:
 - dawniej instalowanie z plytek  a dzisiaj wszystko w sieci
+
+---
+
+#### History
+# Where are we?
 
 # "cloud"
 - movement to cloud services - why?
@@ -179,7 +190,10 @@ wyszukac z alexie ciekawostki o eestecu
 Note:
 - http://internet-map.net/ - fajna ciekawostka 
 
+---
 
+#### History
+# What's ahead?
 
 ## The future is just around the corner (5G)
 Note:

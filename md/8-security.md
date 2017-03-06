@@ -1,11 +1,21 @@
 # Security
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
+
+---
+
+#### Security
+# A few thoughts
 
 ### Everyone makes mistakes!
 
-<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/89/fa/06/89fa06b360359633a8d2f3887cd85fe1.jpg" -->
-
 ### One about a few chars that brought Chrome down
 https://www.youtube.com/watch?v=0fw5Cyh21TE
+
+TODO: Add LinkedIn here
+
+TODO: Add Amazon here
+
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/89/fa/06/89fa06b360359633a8d2f3887cd85fe1.jpg" -->
 
 ## Remember:
 - Build your apps like you're being attacked, beacuse eventually you will be!
@@ -14,16 +24,26 @@ https://www.youtube.com/watch?v=0fw5Cyh21TE
 - Prepare for the worst
 - Think "How could I break this?"
 
-## Authentication and Authorization is not the same thing!!!
-- Veryfiny that a user provided their security credentials correctly
+---
+
+#### Security
+# Best practices
+
+Do you know how passwords are stored?
+
+### Authentication and Authorization is not the same thing!!!
+- Veryfying that a user provided their security credentials correctly
 - Confirming that a particular user has access to a specific resource
 Note:
-1. authentication 2. Authorization
-Note: 
+1 authentication, 2 Authorization
 https://dzone.com/articles/10-most-common-web-security-vulnerabilities
 
-## Open Web Application Security Project (Good guy OWASP)
-- 
+---
+
+#### Security
+# OWASP
+
+OWASP stands for Open Web Application Security Project
 
 ### 1. Injection Flaws
 Happens while passing unfiltered data
