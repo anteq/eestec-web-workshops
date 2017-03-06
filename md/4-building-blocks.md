@@ -1,4 +1,5 @@
 # Building blocks
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
 
 What is nowadays' web application made of?
 
@@ -11,8 +12,9 @@ E.g.
 
 ---
 
-<!-- .slide: data-background-image="http://il2.picdn.net/shutterstock/videos/14332168/thumb/1.jpg" -->
+#### Building blocks
 ## A brief explanation of how Internet works
+
 - When you type eestec.net... 
 - it resolves eestec.net to IP address that identifies the computer that has our site
 - then our browser sends a HTTP request to this server: "hey, GET me this page"
@@ -30,7 +32,9 @@ No magic here :(.
 
 ---
 
-## DyNamIc Web1!!11!
+#### Building blocks
+# Dynamic Web
+
 But... we don't want our site to have just a quote. Or text.
 We want fireworks, login page, and randomized quotes!!11!
 Note:
@@ -79,14 +83,4 @@ Note:
 Frontend dev doesn't need to know how the backend works - treats it like blackbox.
 Backend dev doesn't need to know how data is presented.
 
----
 
-Have you ever thought about how does that work...
-You receive message on Facebook. You get notifcations both on mobile and on desktop.
-You then read the message on your desktop. 
-How come your mobile knows about that and stops displaying the notification icon?
-
----
-
-# State of web dev now
-https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52

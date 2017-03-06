@@ -1,5 +1,6 @@
 <!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
-# Web platform 9 3/4
+# Web platform 
+# 9 3/4
 Note:
 Logo warsztatow
 
@@ -23,8 +24,10 @@ dodac zdj
 - Barca
 - Hackathony
 
-### Motivation
-# Why?
+---
+
+#### Intro
+# Motivation
 
 <!-- .slide: data-background-image="http://www.craveonline.com/images/stories/2011/Film/The%20Series%20Project/Harry%20Potter/Harry_Potter_1_Ron_and_Hermione.jpg" -->
 ### Thesis 1
@@ -72,16 +75,18 @@ Your reasons for joining us today? :)
 
 ---
 
-### Practical guidelines
-- 5 days of magic journey <!-- .element: class="fragment" data-fragment-index="1" -->
-- open discussion (talking >> lecturing) <!-- .element: class="fragment" data-fragment-index="2" -->
+#### Intro
+# Practical info
+
+- 5 days of magic journey 
+- open discussion! (talking >> lecturing) <!-- .element: class="fragment" data-fragment-index="2" -->
 - help yourself with beverages and pumpkin pasties <!-- .element: class="fragment" data-fragment-index="4" -->
 - short breaks included <!-- .element: class="fragment" data-fragment-index="3" -->
 Note:
 If you have some examples, some insights, you agree or disagree with sth that we said - let's talk
 Don't ask us about peeing or puking breaks!! We are only humans after all
 
-### Content
+#### Topics
 - Introduction (You are here now) <!-- .element: class="fragment" data-fragment-index="1" -->
 - History <!-- .element: class="fragment" data-fragment-index="1" -->
 - Building blocks: <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -91,14 +96,14 @@ Don't ask us about peeing or puking breaks!! We are only humans after all
 	- api <!-- .element: class="fragment" data-fragment-index="2" -->
 - Scalability & Cloud <!-- .element: class="fragment" data-fragment-index="2" -->
 - Security <!-- .element: class="fragment" data-fragment-index="2" -->
-- IT project management <!-- .element: class="fragment" data-fragment-index="3" -->
-- Carrer Paths <!-- .element: class="fragment" data-fragment-index="3" -->
+- Psychology & IT <!-- .element: class="fragment" data-fragment-index="3" -->
+- Career Paths <!-- .element: class="fragment" data-fragment-index="3" -->
 - Our backyard (eestec.net & eestec ITT) <!-- .element: class="fragment" data-fragment-index="5" -->
 - Summary <!-- .element: class="fragment" data-fragment-index="5" -->
 Note:
 Dodac pointer z mapy zeby bylo wiadomo o co kaman
 
-### What we're going to talk about 
+#### Means
 Quite varied:
 - some history <!-- .element: class="fragment" data-fragment-index="1" -->
 - some theory <!-- .element: class="fragment" data-fragment-index="3" -->
@@ -107,6 +112,7 @@ Quite varied:
 - some discussions <!-- .element: class="fragment" data-fragment-index="8" -->
 - some memes <!-- .element: class="fragment" data-fragment-index="4" -->
 - some magic spells <!-- .element: class="fragment" data-fragment-index="6" -->
+- some group exercises <!-- .element: class="fragment" data-fragment-index="9" -->
 
 you can follow the presentation on http://anteq.github.io/eestec-web-workshops/ :)	
 

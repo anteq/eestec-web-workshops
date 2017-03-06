@@ -1,4 +1,10 @@
 # Psychology & IT
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
+
+---
+
+#### Psychology & IT
+# Projects
 
 ![https://s-media-cache-ak0.pinimg.com/736x/23/bb/19/23bb19d042bbe5b3ce76714952b2e550.jpg](https://s-media-cache-ak0.pinimg.com/736x/23/bb/19/23bb19d042bbe5b3ce76714952b2e550.jpg)
 
@@ -24,7 +30,8 @@ W IT:
 
 ---
 
-# Group exercise (yay)
+#### Psychology & IT
+# Biases
 
 Who knows about *confirmation bias*?
 
@@ -44,7 +51,8 @@ https://github.com/kdeldycke/awesome-falsehood
 
 ---
 
-# What about us, students?
+#### Psychology & IT
+# Learning curves
 
 It's really easy to start doing some stuff. Like *Javascript*.
 
@@ -53,6 +61,9 @@ Note:
 Podzielic to na pojedyncze obrazki
 
 ---
+
+#### Psychology & IT
+# Performance
 
 It's good to be aware of the psychological effects that rule our performance.
 
@@ -75,13 +86,17 @@ truth is in between :)
 
 ---
 
-Every student's worst nightmare... 
-[https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl)
-
----
+#### Psychology & IT
+# Hype
 
 Gartner's hype cycle
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/320px-Gartner_Hype_Cycle.svg.png
 http://blogs.gartner.com/smarterwithgartner/files/2015/10/EmergingTech_Graphic.png
 
+---
 
+#### Psychology & IT
+# Nightmare!!1!
+
+Every student's worst nightmare... 
+[https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl)

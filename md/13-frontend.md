@@ -1,6 +1,12 @@
-# FRONTEND
+# Frontend
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
 
 ![http://scontent.cdninstagram.com/t51.2885-15/e35/12383373_840841069358317_1096055011_n.jpg?ig_cache_key=MTIyNDYzMTMyNzczNjI3NTEwMg%3D%3D.2](http://scontent.cdninstagram.com/t51.2885-15/e35/12383373_840841069358317_1096055011_n.jpg?ig_cache_key=MTIyNDYzMTMyNzczNjI3NTEwMg%3D%3D.2)
+
+---
+
+#### Frontend
+# What is it?
 
 ## You see frontend you think...
 Note:
@@ -35,6 +41,11 @@ Dopisać więcej określeń na frontendowca
 - FROM NOW ON, JS IS THE ONLY THING THAT MATTERS
 Note:
 frontend głównie w JS, nie ma dowolności - jedyny język wspierany przez wszystkie przeglądarki
+
+---
+
+#### Frontend
+# Basics
 
 ## Fasten your seatbelts - it's history time again
 ### HTML - content
@@ -132,5 +143,3 @@ Note:
 Note:
 Jakiś przykład
 - hot temat 2017 roku - progressive web application - głównie na mobilkach - czyli wchodzac przez przeglądarke pokaże się dokładnie ta sama aplikacja co zainstalowana przez app store
-
-# THANKS!

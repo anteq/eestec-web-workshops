@@ -1,7 +1,13 @@
-# Career paths
+# Career in IT
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/2f/ae/e1/2faee1afb1444950f14b8feea47620ff.jpg" -->
+
+---
+
+#### Career in IT
+# Students & work
 
 # Slow Start
-Anybody needs a coffee?
+Anybody needs a coffee? <br />
  ![thing](md/10-carrier-path_img/tumblr_m2n06sUe1b1rttnhxo1_500.jpg)
 
 ## How about a little predisposition test?
@@ -30,6 +36,11 @@ Firmy chcą w nas inwestować więc im pozwólmy
 - relatively easy to begin with
 - creativelly repetetive
 - probably easiest way in - Frontend
+
+---
+
+#### Career in IT
+# Future 
 
 ## What future has planned for you?
 Note:
