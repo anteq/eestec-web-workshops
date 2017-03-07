@@ -131,6 +131,9 @@ Note:
 ### JS extension
 ### 3D graphics
 - webGL
+Note:
+gra w 3D
+http://www.webglgames.com/cube-slam/
 
 ## Idea behind Chromebook
 ### Quick test:

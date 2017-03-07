@@ -86,7 +86,7 @@ Note:
 If you have some examples, some insights, you agree or disagree with sth that we said - let's talk
 Don't ask us about peeing or puking breaks!! We are only humans after all
 
-# Workshop Plan
+## Workshop Plan
 - 5 days = 20 hours
 - Some talking, weird hand waving gestures
 - Interesting practical excercises
