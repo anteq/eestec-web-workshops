@@ -142,6 +142,7 @@ do poprawki
 ### Why server has to do all the heavy lifting?
 ### Let's put client's computation power to use
 ## But also how about giving the user the power to create content
+
 <!-- .slide: data-background-image="md/3-history/Web_2.0_words.png" -->
 Note:
 - dlaczego lepsze jest nowe podejscie - bo lepiej zeby klient sobie sam poobliczal - odciazenie serwera czyli Java Script
