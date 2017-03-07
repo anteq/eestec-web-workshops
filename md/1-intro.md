@@ -116,4 +116,11 @@ Quite varied:
 
 you can follow the presentation on http://anteq.github.io/eestec-web-workshops/ :)	
 
+#### Aims
+- listen about concepts in Web
+- get to know all these weird abbreviations
+- hav fun
+
+If you are interested in some specific topic in web development, talk to us. Maybe we'll be able to help. :)
+
 ### Ready?
