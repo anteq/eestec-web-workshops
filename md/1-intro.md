@@ -86,6 +86,14 @@ Note:
 If you have some examples, some insights, you agree or disagree with sth that we said - let's talk
 Don't ask us about peeing or puking breaks!! We are only humans after all
 
+# Workshop Plan
+- 5 days = 20 hours
+- Some talking, weird hand waving gestures
+- Interesting practical excercises
+- Ask a lot of questions
+- We are here for you (I mean really - ask Wojtek (Sparrow) - he will do anything for you)
+- Also please laugh at our jokes - it would mean a world to us
+
 #### Topics
 - Introduction (You are here now) <!-- .element: class="fragment" data-fragment-index="1" -->
 - History <!-- .element: class="fragment" data-fragment-index="1" -->
