@@ -6,8 +6,11 @@
 #### History
 # How'd we get here?
 
-## Let's start nostalgic
-# First PCs
+![md/3-history/Confused-Ron.jpg](md/3-history/Confused-Ron.jpg)
+
+### Let's start nostalgic
+<!-- .slide: data-background-image="md/3-history/Eniac.jpg" -->
+## First PCs
 - not connected
 - space of etire room
 - for military and science purpose
@@ -16,45 +19,75 @@ Note:
 - z zastosowan wojskowych i naukowych - pierwsza strona internetowa przez naukowcow
 - dawniej komputery uzywalo sie tylko jak kalkulator
 
-# Beginning of Internet
-- 1960s
-- 1992 - first internetting
+## Beginning of Internet
+<!-- .slide: data-background-image="md/3-history/what_year_is_that.jpg" -->
+- 1960s - ARPANET
+- In 1993 Internet carries 1% of the information 
+- In 2000 it is 51% and by 2007 97%
 Note:
 - łączenie komputerow dosc nowa sprawa
 - można jeszcze kilka ciekawostek wstawić
+- It is estimated that in 1993 the Internet carried only 1% of the information flowing through two-way telecommunication, by 2000 this figure had grown to 51%, and by 2007 more than 97% of all telecommunicated information was carried over the Internet
 
-# phones
-
-# packet switching and circuit switching
-
-# ARPANET
-
-##  
-Note: obrazek z historią Internetu
-
-# what did the websites look in the beginning of the internet?
+## Phones
+![md/3-history/mobile-phone-evolution.jpg](md/3-history/mobile-phone-evolution.jpg)
 Note:
-- show some examples
+http://geekfence.com/2016/01/13/phonestosmartphones-are-phone-designers-lazy/
+
+## Packet Switching and Circuit Switching
+![md/3-history/gprsgsm.png](md/3-history/gprsgsm.png)
+Note:
+http://www.technodeveloper.com/2016/08/difference-between-4g-lte-and-volte.html
+
+![md/3-history/internet-history.jpg](md/3-history/internet-history.jpg)
+Note:
+https://easyateamsec3.files.wordpress.com/2013/10/internet-history.jpg
+Note: obrazek z historią Internetu
+To też fajne: http://visual.ly/short-history-major-internet-milestones
+
+## What did the websites look in the beginning of the internet?
+Note:
+- first website ever made: http://info.cern.ch/
 - ask for some examples
 
+## First website in the Internet
+![md/3-history/Przechwytywanie.png](md/3-history/Przechwytywanie.png)
+Note:
 e.g. http://home.mcom.com/home/welcome.html
 
-# functionality
+### google.com - launched in 1996 
+![md/3-history/google.jpg](md/3-history/google.jpg)
+
+### facebook.com - launched in 2004
+![md/3-history/facebook.jpg](md/3-history/facebook.jpg)
+
+### youtube.com - launched in 2005
+![md/3-history/youtube.jpg](md/3-history/youtube.jpg)
+
+### apple.com - launched in 1987 (screenshot from 1996)
+![md/3-history/apple.jpg](md/3-history/apple.jpg)
+Note:
+http://www.telegraph.co.uk/technology/6125914/How-20-popular-websites-looked-when-they-launched.html
+
+## Functionality
+http://www.constellation7.org/Constellation-Seven/Josiah/Index.htm
 Note:
 - what functions they had? 
 - why people made websites? e-card, show off, ?
+będzie o tym chyba później (stanowość i inne pierdoły)
+http://www.webpagesthatsuck.com/over-the-top-web-sites.html
 
-# do you remember programmes sold on DVD?
-- now only games and specialistic programmes
+## Do you remember programmes sold on DVD?
+- now only games and specialistic programmes (mostly large distribution)
 Note:
 - dawniej instalowanie z plytek  a dzisiaj wszystko w sieci
 
 ---
 
 #### History
-# Where are we?
+# Where are we now?
 
-# "cloud"
+## "cloud"
 - movement to cloud services - why?
     - mobility
     - access from everywhere 
@@ -64,30 +97,32 @@ Note:
 Note:
 - wiele programow nie wymaga bycia zainstalowanymi lokalnie na kompie - bo CLOUD
 
-# Major change in thinking!
+![md/3-history/cloud.jpg](md/3-history/cloud.jpg)
 
-# e.g. 
+## Major change in thinking!
+
+## e.g. 
 - Office 365, Google Docs
 - basically now you have app for everything
 
-## Guess how much average wizard adept uses his browser?
-- <jakaś liczba>
-Note:
-- statystyki (ile % wlaczona przegladarka)
+### Quick question:
+## What is the first app that you run when you power on your PC?
 
 ## Chromebook
-### Why not to make a computer with just browser installed?
+### Why not to make a computer with just browser capabilities?
+![md/3-history/chromebook.jpg](md/3-history/chromebook.jpg)
 Note:
 - chromebook - czyli komputer tylko z przegladarka
 
-## But it goes further
+#### But it goes further
 ### Because we use Internet differently, we had to change the way we create content it gives access to
 - HTML5
 - WEB2.0
 Note:
 - przez to zewykorzystujemy internety w inny sposob musielismy zmienic sposob w jaki je tworzymy
 	- strony statystyczne dawniej (niedeterministyczne i bezstanowe) // sprwadzic rocznik
-	- HTML5 oraz WEB2.0 -> strona komunikuje sie ze czyms; strony dynamiczne i stanowe
+	- HTML5 oraz WEB2.0 -> strona komunikuje sie z czyms; strony dynamiczne i stanowe
+
 ## CGI (Common Gateway Interface)
 - interface enabling communication between server www and other programms that run on server
 Note:
@@ -95,7 +130,7 @@ Za pomocą programów CGI można dynamicznie (na żądanie klienta) generować d
 
 ## Who doesn't love PHP?
 - PHP is designed to be an HTML templating language (and maybe should have stayed that way)
-- "“You can write great code in any language.” Yeah, and Leonardo could’ve produced great art with human shit, if he cared to, but he knew better."
+- “You can write great code in any language.” Yeah, and Leonardo could’ve produced great art with human shit, if he cared to, but he knew better.
 - it is relatively easy to deploy easy website
 - nowadays so many alternatives 
 Note:
@@ -103,17 +138,27 @@ do poprawki
 - Dawniej moda na php - przyklad jak dziala php i to jak jest dzisiaj
 - bardzo wazny jest jasny i prosty przyklad
 
-## New approach
+#### New approach
 ### Why server has to do all the heavy lifting?
 ### Let's put client's computation power to use
+## But also how about giving the user the power to create content
+<!-- .slide: data-background-image="md/3-history/Web_2.0_words.png" -->
 Note:
 - dlaczego lepsze jest nowe podejscie - bo lepiej zeby klient sobie sam poobliczal - odciazenie serwera czyli Java Script
+- WEB2.0 bo social web i pozwolenie klientom tworzyć content
 - sprawdzic prawdziwe powody!!
+http://www.21cedtools.com/web-2-0-resources
+zmienić czcionke
 
-## They see me hatin..
-### Both approaches are good in defferent cases
+#### They see me hatin..
+## Both approaches are good in defferent cases
 Note:
 - UWAGA! - nie jest taka, ze nowsze podejscie jest calkowicie zajebiste - wazny jest kontekst i zastosowanie
+
+---
+
+#### History
+# History of WebDev
 
 ## Some technologies grow to fast
 Note:
