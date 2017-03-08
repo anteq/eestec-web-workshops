@@ -91,3 +91,21 @@ When communicating, time of response is *nondeterministic*.
 ## Short excercise
 Note: 
 Ćwiczenie z onetu (20 min)
+
+--- 
+
+#### Backend
+# Servers
+
+mostly Linux. why?
+
+- scalable
+- maintainable
+- open source
+- CLI > clicking
+
+---
+
+#### Backend
+# CLI
+

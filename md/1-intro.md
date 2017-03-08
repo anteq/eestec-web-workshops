@@ -24,6 +24,12 @@ dodac zdj
 - Barca
 - Hackathony
 
+<img src="img/grzanka.jpg" height="200px"></img> <img src="img/wrobel.jpg" height="200px"></img> <br />
+<span class="fragment" data-fragment-index="1">Plus guests!</span> <br />
+<img src="img/amozemanaimieprzemek.jpg" height="200px" class="fragment" data-fragment-index="2"></img>
+<img src="img/marek.jpg" height="200px" class="fragment" data-fragment-index="3"></img>
+<img src="img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img> <br />
+
 ---
 
 #### Intro
@@ -123,5 +129,12 @@ Quite varied:
 - some group exercises <!-- .element: class="fragment" data-fragment-index="9" -->
 
 you can follow the presentation on http://anteq.github.io/eestec-web-workshops/ :)	
+
+#### Aims
+- listen about concepts in Web
+- get to know all these weird abbreviations
+- hav fun
+
+If you are interested in some specific topic in web development, talk to us. Maybe we'll be able to help. :)
 
 ### Ready?

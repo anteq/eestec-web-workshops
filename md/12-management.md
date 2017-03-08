@@ -112,5 +112,6 @@ http://blogs.gartner.com/smarterwithgartner/files/2015/10/EmergingTech_Graphic.p
 #### Psychology & IT
 # Nightmare!!1!
 
-Every student's worst nightmare... 
-[https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl)
+Every student's worst nightmare... do you know what it is?
+
+[It's here.](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl)
