@@ -28,7 +28,7 @@ dodac zdj
 <span class="fragment" data-fragment-index="1">Plus guests!</span> <br />
 <img src="img/amozemanaimieprzemek.jpg" height="200px" class="fragment" data-fragment-index="2"></img>
 <img src="img/marek.jpg" height="200px" class="fragment" data-fragment-index="3"></img>
-<img src="img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img> <br />
+<img src="img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img>
 
 ---
 
