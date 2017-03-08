@@ -45,9 +45,65 @@ frontend głównie w JS, nie ma dowolności - jedyny język wspierany przez wszy
 ---
 
 #### Frontend
+# Web Design periods
+
+## Antiquity
+- 90s
+- low internet speed as a constraint
+- text based (no funny kittens pictures)
+
+## Middle ages 
+- GIF fever 
+- table-based layouts
+- page hit counters
+- animated text
+
+## Renaissance
+- Flash
+- marriage of virtual graphics and interaction
+- enhanced visual effect from previous period
+- the beginning of visitor-focused design
+- structure and navigation became important considerations
+Note:
+dodać filmik z yt albo gif z flashem (queen)
+
+## The Enlightenment
+- separation of content and design (css)
+- websites easier to maintain, more flexible and quicker to load 
+- links began to attach to icons rather than text 
+- usability started to become more important than other design elements
+
+## The Industrial Revolution
+- WEB2.0
+- growth of multimedia applications
+- implementation of interactive content
+- rise of the social web
+- better color distribution, increased use of icons, and greater attention to typography
+- design became about content
+
+## Modern Days
+- well... you can see for yourself 
+- UX
+- infinite scrolling 
+- single-page design
+
+---
+
+#### Frontend
 # Basics
 
 ## Fasten your seatbelts - it's history time again
+
+## Who doesn't love PHP?
+- PHP is designed to be an HTML templating language (and maybe should have stayed that way)
+- “You can write great code in any language.” Yeah, and Leonardo could’ve produced great art with human shit, if he cared to, but he knew better.
+- it is relatively easy to deploy easy website
+- nowadays so many alternatives 
+Note:
+do poprawki
+- Dawniej moda na php - przyklad jak dziala php i to jak jest dzisiaj
+- bardzo wazny jest jasny i prosty przyklad
+
 ### HTML - content
 ### CSS - colors and styling
 ### JS - object that shines and moves 
@@ -135,7 +191,8 @@ Note:
 gra w 3D
 http://www.webglgames.com/cube-slam/
 
-## Idea behind Chromebook
+### Why not to make a computer with just browser capabilities?
+![md/3-history/chromebook.jpg](md/3-history/chromebook.jpg)
 ### Quick test:
 ### In your everyday life when last time you didn't have a browser opened in background?
 Note:
