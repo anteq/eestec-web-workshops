@@ -6,6 +6,11 @@ Internet = communication. XD
 
 ---
 
+## CGI (Common Gateway Interface)
+- interface enabling communication between server www and other programms that run on server
+Note:
+Za pomocą programów CGI można dynamicznie (na żądanie klienta) generować dokumenty HTML, uzupełniając je np. treścią pobieraną z bazy danych.
+
 #### Communication
 # API
 

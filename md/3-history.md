@@ -45,6 +45,69 @@ https://easyateamsec3.files.wordpress.com/2013/10/internet-history.jpg
 Note: obrazek z historią Internetu
 To też fajne: http://visual.ly/short-history-major-internet-milestones
 
+## Do you remember programmes sold on DVD?
+- now only games and specialistic programmes (mostly large distribution)
+Note:
+- dawniej instalowanie z plytek  a dzisiaj wszystko w sieci
+
+---
+
+#### History
+# Where are we now?
+
+## "cloud"
+- movement to cloud services - why?
+    - mobility
+    - access from everywhere 
+    - many different devices
+    - we live faster
+    - everything is connected now
+Note:
+- wiele programow nie wymaga bycia zainstalowanymi lokalnie na kompie - bo CLOUD
+- rzecz do ktorej przestala byc potrzeba posiadania osobnego programu (poczta)
+- do prawie wszystkiego mozna znalezc odpowiednik w necie ktory dziala lepiej lub gorzej ale jest
+
+![md/3-history/cloud.jpg](md/3-history/cloud.jpg)
+
+## Major change in thinking!
+
+## e.g. 
+- Office 365, Google Docs
+- basically now you have app for everything
+
+
+#### But it goes further
+### Because we use Internet differently, we had to change the way we create content it gives access to
+- HTML5
+- WEB2.0
+Note:
+- przez to zewykorzystujemy internety w inny sposob musielismy zmienic sposob w jaki je tworzymy
+	- strony statystyczne dawniej (niedeterministyczne i bezstanowe) // sprwadzic rocznik
+	- HTML5 oraz WEB2.0 -> strona komunikuje sie z czyms; strony dynamiczne i stanowe
+
+#### New approach
+### Why server has to do all the heavy lifting?
+### Let's put client's computation power to use
+## But also how about giving the user the power to create content
+
+<!-- .slide: data-background-image="md/3-history/Web_2.0_words.png" -->
+Note:
+- dlaczego lepsze jest nowe podejscie - bo lepiej zeby klient sobie sam poobliczal - odciazenie serwera czyli Java Script
+- WEB2.0 bo social web i pozwolenie klientom tworzyć content
+- sprawdzic prawdziwe powody!!
+http://www.21cedtools.com/web-2-0-resources
+zmienić czcionke
+
+#### They see me hatin..
+## Both approaches are good in defferent cases
+Note:
+- UWAGA! - nie jest taka, ze nowsze podejscie jest calkowicie zajebiste - wazny jest kontekst i zastosowanie
+
+---
+
+#### History
+# History of WebDev
+
 ## What did the websites look in the beginning of the internet?
 Note:
 - first website ever made: http://info.cern.ch/
@@ -77,90 +140,6 @@ Note:
 będzie o tym chyba później (stanowość i inne pierdoły)
 http://www.webpagesthatsuck.com/over-the-top-web-sites.html
 
-## Do you remember programmes sold on DVD?
-- now only games and specialistic programmes (mostly large distribution)
-Note:
-- dawniej instalowanie z plytek  a dzisiaj wszystko w sieci
-
----
-
-#### History
-# Where are we now?
-
-## "cloud"
-- movement to cloud services - why?
-    - mobility
-    - access from everywhere 
-    - many different devices
-    - we live faster
-    - everything is connected now
-Note:
-- wiele programow nie wymaga bycia zainstalowanymi lokalnie na kompie - bo CLOUD
-
-![md/3-history/cloud.jpg](md/3-history/cloud.jpg)
-
-## Major change in thinking!
-
-## e.g. 
-- Office 365, Google Docs
-- basically now you have app for everything
-
-### Quick question:
-## What is the first app that you run when you power on your PC?
-
-## Chromebook
-### Why not to make a computer with just browser capabilities?
-![md/3-history/chromebook.jpg](md/3-history/chromebook.jpg)
-Note:
-- chromebook - czyli komputer tylko z przegladarka
-
-#### But it goes further
-### Because we use Internet differently, we had to change the way we create content it gives access to
-- HTML5
-- WEB2.0
-Note:
-- przez to zewykorzystujemy internety w inny sposob musielismy zmienic sposob w jaki je tworzymy
-	- strony statystyczne dawniej (niedeterministyczne i bezstanowe) // sprwadzic rocznik
-	- HTML5 oraz WEB2.0 -> strona komunikuje sie z czyms; strony dynamiczne i stanowe
-
-## CGI (Common Gateway Interface)
-- interface enabling communication between server www and other programms that run on server
-Note:
-Za pomocą programów CGI można dynamicznie (na żądanie klienta) generować dokumenty HTML, uzupełniając je np. treścią pobieraną z bazy danych.
-
-## Who doesn't love PHP?
-- PHP is designed to be an HTML templating language (and maybe should have stayed that way)
-- “You can write great code in any language.” Yeah, and Leonardo could’ve produced great art with human shit, if he cared to, but he knew better.
-- it is relatively easy to deploy easy website
-- nowadays so many alternatives 
-Note:
-do poprawki
-- Dawniej moda na php - przyklad jak dziala php i to jak jest dzisiaj
-- bardzo wazny jest jasny i prosty przyklad
-
-#### New approach
-### Why server has to do all the heavy lifting?
-### Let's put client's computation power to use
-## But also how about giving the user the power to create content
-
-<!-- .slide: data-background-image="md/3-history/Web_2.0_words.png" -->
-Note:
-- dlaczego lepsze jest nowe podejscie - bo lepiej zeby klient sobie sam poobliczal - odciazenie serwera czyli Java Script
-- WEB2.0 bo social web i pozwolenie klientom tworzyć content
-- sprawdzic prawdziwe powody!!
-http://www.21cedtools.com/web-2-0-resources
-zmienić czcionke
-
-#### They see me hatin..
-## Both approaches are good in defferent cases
-Note:
-- UWAGA! - nie jest taka, ze nowsze podejscie jest calkowicie zajebiste - wazny jest kontekst i zastosowanie
-
----
-
-#### History
-# History of WebDev
-
 ## Some technologies grow to fast
 Note:
 - niektore z nowych technologii rosna za szybko
@@ -170,11 +149,6 @@ Chyba nie bardzo wiem o co tu chodzi
 ### It makes connecting easier
 Note:
 Dlaczego API jest zajebiste
-
-## History of WebDev
-Note:
-google > history of web dev
-- przestudiowac historie webdevu
 
 ## History of HTTP
 Note:
@@ -186,8 +160,11 @@ Note:
 - po co nam przegladarka - pozniej walka Internet Explorer vs NETscape (podwaliny Mozilli) - warto przeczytac w ramach ciekawostki
 
 ## Cookie monster
+### First cookie (eaten) in 1995
+### But users didn't know about it sweetness until Februare 1996
 Note:
 - kiedy pojawily sie ciasteczka i na chuj sa (przy temacie security)
+- w 1996 gównoburza apropo ciastek
 
 ## Fun fact:
 ### Windows N(o IE)
@@ -196,6 +173,9 @@ Note:
 
 ## Chrome revolution:
 - one tab one process
+- first to merge address bar and search bar
+- synchronization of bookmarks, history and settings across all devices (via Google Account)
+- T-Rex mini game :)
 Note:
 dodać więcej ciekawostek
 - Poczatek chroma - i ciekawostka odnosnie zakladek i kiedy sie pojawily, Chrome - jedna karta - jeden proces
@@ -204,27 +184,28 @@ dodać więcej ciekawostek
 Note:
 Troche to z dupy tutaj jest ale jak coś pod tym adresem test https://www.raymond.cc/blog/battle-of-the-browsers-in-cpu-and-memory-usage/
 - Sprawdzic czy wszystkie przegladarki pozeraja caly RAM jaki widza
+Troche z dupy, nie wiem czy jest sens mowic o tym
 
 ## When I was young...
 ### Tune more popular than Nokia ringtone
+![yt](gsNaR6FRuO0)
 Note:
 - jak dawniej sie trzeba bylo wdzwaniac w internet, - dzwieki z internetu
 - zobaczyc i sprawdzic jak wygladalo to dawniej w innych krajach
-
-## All you need is... Chrome 
-Note:
-- rzecz do ktorej przestala byc potrzeba posiadania osobnego programu (poczta)
-- do prawie wszystkiego mozna znalezc odpowiednik w necie ktory dziala lepiej lub gorzej ale jest
+https://www.youtube.com/watch?v=gsNaR6FRuO0
 
 ## Let me google it for you
 Note:
+https://en.wikipedia.org/wiki/History_of_Google
 - Google od zera do krola internetu
+- też bym wyjebał bo zbyt duży temat
 
 ## Fun fact II
 ### most popular websites
+http://www.alexa.com/topsites
 Note:
 - obczaic alexa.com - najpopularniejsze strony w interencie
-- http://www.alexa.com/topsites
+- nie można otworzyć tego w prezentacji
 
 ## Weird things you can find in the Internet 
 Note:
@@ -233,6 +214,7 @@ wyszukac z alexie ciekawostki o eestecu
 	- http://plone.293351.n2.nabble.com/How-export-proxy-from-python-script-on-ZMI-td5592932.html
 
 ## Map of the Internet
+http://internet-map.net/
 Note:
 - http://internet-map.net/ - fajna ciekawostka 
 
@@ -244,8 +226,9 @@ Note:
 ## The future is just around the corner (5G)
 Note:
 - jak wyglada przyszlosc internetu (5G)
-# lista tematow
 
-# Can you write website in C++ or JAVA?
+---
+# Let's do some practice
+## Can you write website in C++ or JAVA?
 Note:
 Napisac strone w C albo innym smiesznym jezyku
