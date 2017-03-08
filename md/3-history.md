@@ -37,6 +37,7 @@ http://geekfence.com/2016/01/13/phonestosmartphones-are-phone-designers-lazy/
 ## Packet Switching and Circuit Switching
 ![md/3-history/gprsgsm.png](md/3-history/gprsgsm.png)
 Note:
+Some say that phones' size growth is tightly connected with Porn industry taking upon Internet
 http://www.technodeveloper.com/2016/08/difference-between-4g-lte-and-volte.html
 
 ![md/3-history/internet-history.jpg](md/3-history/internet-history.jpg)
@@ -57,11 +58,11 @@ Note:
 
 ## "cloud"
 - movement to cloud services - why?
-    - mobility
-    - access from everywhere 
-    - many different devices
-    - we live faster
-    - everything is connected now
+    - mobility <!-- .element: class="fragment" data-fragment-index="1" -->
+    - access from everywhere <!-- .element: class="fragment" data-fragment-index="2" -->
+    - many different devices <!-- .element: class="fragment" data-fragment-index="3" -->
+    - we live faster <!-- .element: class="fragment" data-fragment-index="4" -->
+    - everything is connected now <!-- .element: class="fragment" data-fragment-index="5" -->
 Note:
 - wiele programow nie wymaga bycia zainstalowanymi lokalnie na kompie - bo CLOUD
 - rzecz do ktorej przestala byc potrzeba posiadania osobnego programu (poczta)
@@ -78,8 +79,8 @@ Note:
 
 #### But it goes further
 ### Because we use Internet differently, we had to change the way we create content it gives access to
-- HTML5
-- WEB2.0
+- HTML5 <!-- .element: class="fragment" data-fragment-index="1" -->
+- WEB2.0 <!-- .element: class="fragment" data-fragment-index="2" -->
 Note:
 - przez to zewykorzystujemy internety w inny sposob musielismy zmienic sposob w jaki je tworzymy
 	- strony statystyczne dawniej (niedeterministyczne i bezstanowe) // sprwadzic rocznik
@@ -88,7 +89,7 @@ Note:
 #### New approach
 ### Why server has to do all the heavy lifting?
 ### Let's put client's computation power to use
-## But also how about giving the user the power to create content
+## But also how about giving the user the power to create content?
 
 <!-- .slide: data-background-image="md/3-history/Web_2.0_words.png" -->
 Note:
@@ -113,22 +114,22 @@ Note:
 - first website ever made: http://info.cern.ch/
 - ask for some examples
 
-## First website in the Internet
-![md/3-history/Przechwytywanie.png](md/3-history/Przechwytywanie.png)
+## First website in the Internet <!-- .element: class="fragment" data-fragment-index="1" -->
+![md/3-history/Przechwytywanie.png](md/3-history/Przechwytywanie.png) <!-- .element: class="fragment" data-fragment-index="2" -->
 Note:
 e.g. http://home.mcom.com/home/welcome.html
 
-### google.com - launched in 1996 
-![md/3-history/google.jpg](md/3-history/google.jpg)
+### google.com - launched in 1996 <!-- .element: class="fragment" data-fragment-index="1" -->
+![md/3-history/google.jpg](md/3-history/google.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
 
-### facebook.com - launched in 2004
-![md/3-history/facebook.jpg](md/3-history/facebook.jpg)
+### facebook.com - launched in 2004 <!-- .element: class="fragment" data-fragment-index="1" -->
+![md/3-history/facebook.jpg](md/3-history/facebook.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
 
-### youtube.com - launched in 2005
-![md/3-history/youtube.jpg](md/3-history/youtube.jpg)
+### youtube.com - launched in 2005<!-- .element: class="fragment" data-fragment-index="1" -->
+![md/3-history/youtube.jpg](md/3-history/youtube.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
 
-### apple.com - launched in 1987 (screenshot from 1996)
-![md/3-history/apple.jpg](md/3-history/apple.jpg)
+### apple.com - launched in 1987 (screenshot from 1996) <!-- .element: class="fragment" data-fragment-index="1" -->
+![md/3-history/apple.jpg](md/3-history/apple.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
 Note:
 http://www.telegraph.co.uk/technology/6125914/How-20-popular-websites-looked-when-they-launched.html
 
@@ -161,7 +162,7 @@ Note:
 
 ## Cookie monster
 ### First cookie (eaten) in 1995
-### But users didn't know about it sweetness until Februare 1996
+### But users didn't know about it sweetness until Februare 1996 (so they got mad)
 Note:
 - kiedy pojawily sie ciasteczka i na chuj sa (przy temacie security)
 - w 1996 gównoburza apropo ciastek
@@ -172,10 +173,10 @@ Note:
 - Fun fakt - Windows z N sprzedawany jest w krajach w ktorych uznano ze sprzedawanie Windowsa z przegladarka preinstalowana jest zle
 
 ## Chrome revolution:
-- one tab one process
-- first to merge address bar and search bar
-- synchronization of bookmarks, history and settings across all devices (via Google Account)
-- T-Rex mini game :)
+- one tab one process <!-- .element: class="fragment" data-fragment-index="1" -->
+- first to merge address bar and search bar <!-- .element: class="fragment" data-fragment-index="2" -->
+- synchronization of bookmarks, history and settings across all devices (via Google Account) <!-- .element: class="fragment" data-fragment-index="3" -->
+- T-Rex mini game :)<!-- .element: class="fragment" data-fragment-index="4" -->
 Note:
 dodać więcej ciekawostek
 - Poczatek chroma - i ciekawostka odnosnie zakladek i kiedy sie pojawily, Chrome - jedna karta - jeden proces
@@ -186,8 +187,8 @@ Troche to z dupy tutaj jest ale jak coś pod tym adresem test https://www.raymo
 - Sprawdzic czy wszystkie przegladarki pozeraja caly RAM jaki widza
 Troche z dupy, nie wiem czy jest sens mowic o tym
 
-## When I was young...
-### Tune more popular than Nokia ringtone
+### When I was 7 years old...
+## Tune more popular than Nokia ringtone
 ![yt](gsNaR6FRuO0)
 Note:
 - jak dawniej sie trzeba bylo wdzwaniac w internet, - dzwieki z internetu
@@ -227,8 +228,6 @@ Note:
 Note:
 - jak wyglada przyszlosc internetu (5G)
 
----
-# Let's do some practice
-## Can you write website in C++ or JAVA?
-Note:
-Napisac strone w C albo innym smiesznym jezyku
+## IoT (but not so fresh anymore)
+
+## śmieszne memy z kotami żeby było wiadomo ze blok się skończył
