@@ -88,7 +88,7 @@ Don't ask us about peeing or puking breaks!! We are only humans after all
 
 ## Workshop Plan
 - 5 days = 20 hours
-- Some talking, weird hand waving gestures
+- Some talking, weird hand waving gestures, guest lecturers 
 - Interesting practical excercises
 - Ask a lot of questions
 - We are here for you (I mean really - ask Wojtek (Sparrow) - he will do anything for you)
