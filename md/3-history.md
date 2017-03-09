@@ -230,4 +230,8 @@ Note:
 
 ## IoT (but not so fresh anymore)
 
-## śmieszne memy z kotami żeby było wiadomo ze blok się skończył
+<img src="http://ell.h-cdn.co/assets/16/41/1476452877-cat-playing-guitar-gif.gif"></img>
+
+<img src="http://bestanimations.com/Animals/Mammals/Cats/catgif/funny-cat-gif-3.gif"></img>
+
+<img src="http://bestanimations.com/Animals/Mammals/Cats/catgif/funny-cat-gif-7.gif"></img>
