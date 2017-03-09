@@ -6,27 +6,49 @@
 #### Psychology & IT
 # Projects
 
-![https://s-media-cache-ak0.pinimg.com/736x/23/bb/19/23bb19d042bbe5b3ce76714952b2e550.jpg](https://s-media-cache-ak0.pinimg.com/736x/23/bb/19/23bb19d042bbe5b3ce76714952b2e550.jpg)
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg" -->
 
-### Rule 1
-Usually client don't know what they want. 
+#### Thought 1
+Usually client doesn't know what they want. 
+
+![https://s-media-cache-ak0.pinimg.com/736x/23/bb/19/23bb19d042bbe5b3ce76714952b2e550.jpg](https://s-media-cache-ak0.pinimg.com/736x/23/bb/19/23bb19d042bbe5b3ce76714952b2e550.jpg)
 
 Expert (you) vs. business guys
  ![yt](BKorP55Aqvg)
 
-- różnica miedzy inżynierem budowlańcem a inżynierem informatykiem (zrobienie mostu vs zrobienie aplikacji)
-- w IT klient przewaznie nie wie czego chce a ni firma wykonawcza tez tego nie wie
-	- klientowi wydaje sie ze wie czego chce ale tak szybko zmienia sie sytuacja na rynku w stosunku do czasu realizacji ze zanim problem zostanie rozwiazany nie bedzie to juz potrzebne
-Przykład:
-- zbierasz wymagania które raczej są stałe i się nie zmienią
-- Projekt tworzony jest ze wzgledu na wymagania - wszystko jest dane i wiadomoe
-W IT:
-- wymagania nie są stałe bo czesto klient nie jest związany z branżą IT co rodzi kilka problemów 
-- np. klientowi wydaje sie ze zmiana jednej rzeczy jest trywialna a tak na prawde trzeba przemodelować cały projekt
+#### Thought 2
+The requirements are constantly changing!
+Note:
+Imagine a project that takes a year to make. And imagine starting it in 2015. Don't you think that it would be useless right now? What was on top in 2015? Would you be able to predict what would be on top in 2017?
 
+#### Thought 3
+We can't measure complexity of software project until we actually work on it.
 
-- błędne koło pracy - szybko zmieniające sie realia pracy - srednio co jakis czas masz ochote coś przepisac od nowa
-- learning curve 
+#### Thought 4
+Plenty of work that has to be done is invisible.
+Note:
+Tests and stuff. When a physical artefact such as a bridge or road is being constructed the progress being made can actually be seen. With software, progress is not immediately visible.
+
+How do we deal with that?
+
+---
+
+#### Psychology & IT
+# Agile
+
+Regular approach: **Waterfall**
+
+New, *fancy* approach: **Agile**
+
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+Note: 
+That is, while there is value in the items on the right, we value the items on the left more. They don't say "fuk u u r stupid", they value both.
+
+<!-- .slide: data-background-image="https://media.giphy.com/media/xThuWvNXA5Z7Dl9GVy/giphy.gif" -->
+Isn't that more human? :)
 
 ---
 

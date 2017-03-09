@@ -84,38 +84,51 @@ Your reasons for joining us today? :)
 #### Intro
 # Practical info
 
-- 5 days of magic journey 
-- open discussion! (talking >> lecturing) <!-- .element: class="fragment" data-fragment-index="2" -->
-- help yourself with beverages and pumpkin pasties <!-- .element: class="fragment" data-fragment-index="4" -->
-- short breaks included <!-- .element: class="fragment" data-fragment-index="3" -->
-Note:
-If you have some examples, some insights, you agree or disagree with sth that we said - let's talk
-Don't ask us about peeing or puking breaks!! We are only humans after all
+- 5 days of magical journey!
+- more than 20 hours of time spent together <3
 
-## Workshop Plan
-- 5 days = 20 hours
-- Some talking, weird hand waving gestures, guest lecturers 
-- Interesting practical excercises
-- Ask a lot of questions
-- We are here for you (I mean really - ask Wojtek (Sparrow) - he will do anything for you)
-- Also please laugh at our jokes - it would mean a world to us
+#### Aims
+- understand some "high-level" concepts in Web
+- get to know all these weird buzzwords
+- have fun and bond together!
+
+## Rules
+- Discussion >> lecture <!-- .element: class="fragment" data-fragment-index="1" -->
+- Questions and insights are welcome <!-- .element: class="fragment" data-fragment-index="2" -->
+- Respect each speaker <!-- .element: class="fragment" data-fragment-index="3" -->
+- Don't sweat it <!-- .element: class="fragment" data-fragment-index="4" -->
+- We are here for you <!-- .element: class="fragment" data-fragment-index="5" -->
+- Help yourself with beverages and cookiez  <!-- .element: class="fragment" data-fragment-index="6" -->
+- Also please laugh at our jokes - it would mean a world to us <!-- .element: class="fragment" data-fragment-index="7" -->
+
+We also have some guys from LC Kraków here! :)
 
 #### Topics
 - Introduction (You are here now) <!-- .element: class="fragment" data-fragment-index="1" -->
 - History <!-- .element: class="fragment" data-fragment-index="1" -->
 - Building blocks: <!-- .element: class="fragment" data-fragment-index="1" -->
-	- backend + db <!-- .element: class="fragment" data-fragment-index="1" -->
-	- ux<!-- .element: class="fragment" data-fragment-index="4" -->
-	- front <!-- .element: class="fragment" data-fragment-index="4" -->
-	- api <!-- .element: class="fragment" data-fragment-index="2" -->
-- Scalability & Cloud <!-- .element: class="fragment" data-fragment-index="2" -->
+- Backend <!-- .element: class="fragment" data-fragment-index="1" -->
+- RoR practice <!-- .element: class="fragment" data-fragment-index="1" -->
+- Scaling up (cloud and stuff) <!-- .element: class="fragment" data-fragment-index="2" -->
 - Security <!-- .element: class="fragment" data-fragment-index="2" -->
+- Communication <!-- .element: class="fragment" data-fragment-index="2" -->
+
+#### Topics
 - Psychology & IT <!-- .element: class="fragment" data-fragment-index="3" -->
 - Career Paths <!-- .element: class="fragment" data-fragment-index="3" -->
-- Our backyard (eestec.net & eestec ITT) <!-- .element: class="fragment" data-fragment-index="5" -->
+- Frontend <!-- .element: class="fragment" data-fragment-index="4" -->
+- UX <!-- .element: class="fragment" data-fragment-index="4" -->
+- IT in EESTEC <!-- .element: class="fragment" data-fragment-index="5" -->
 - Summary <!-- .element: class="fragment" data-fragment-index="5" -->
 Note:
 Dodac pointer z mapy zeby bylo wiadomo o co kaman
+
+#### Topics (bonus)
+- Git?
+- Angular?
+- ?
+
+If you are interested in some specific topic in web development, speak up! Maybe we'll be able to help. :)
 
 #### Means
 Quite varied:
@@ -130,11 +143,12 @@ Quite varied:
 
 you can follow the presentation on http://anteq.github.io/eestec-web-workshops/ :)	
 
-#### Aims
-- listen about concepts in Web
-- get to know all these weird abbreviations
-- hav fun
+<!-- .slide: data-background-image="http://media.tumblr.com/efd74276c0788306716fc5d7fb85de31/tumblr_inline_mt2mz1cIFS1ryc2v5.gif" -->
+#### Last 15 minutes each day will be special.
 
-If you are interested in some specific topic in web development, talk to us. Maybe we'll be able to help. :)
+#### An experiment
+- Last 15 minutes every day will be time for you to share whatever cool you would like to share with the group. <!-- .element: class="fragment" data-fragment-index="1" -->
+- It's like the open mic. <!-- .element: class="fragment" data-fragment-index="2" -->
+- Whatever you found interesting, funny or worth sharing; YT video, meme, article or idea - this is time. If you want. :) <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ### Ready?
