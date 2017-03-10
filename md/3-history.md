@@ -9,8 +9,8 @@
 ![md/3-history/Confused-Ron.jpg](md/3-history/Confused-Ron.jpg)
 
 ### Let's start nostalgic
-<!-- .slide: data-background-image="md/3-history/Eniac.jpg" -->
-## First PCs
+<!-- .slide: data-background-image="md/3-history/Eniac.jpg" style="color:black !important" -->
+<h2 style="color:black">First PCs</h2>
 - not connected
 - space of etire room
 - for military and science purpose

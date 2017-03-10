@@ -4,36 +4,43 @@
 ---
 
 #### Security
-# A few thoughts
+## A few thoughts
 
 ### Everyone makes mistakes!
 
 ### One about a few chars that brought Chrome down
 https://www.youtube.com/watch?v=0fw5Cyh21TE
 
-TODO: Add LinkedIn here
+### LinkedIN
+Note:
+Cookies does not expires for a year! E.g. Banking cookies expires after 10-15 mins
+They did not use a salt while creating checksums
+May 2016 167 mln accounts of 117 mln users offered for sale 
+passwords like “linkedin’, ‘hopeless,’ ‘killmenow’, ‘iwishiwasdead’, and ‘hatemyjob’ where proven to be used
 
-TODO: Add Amazon here
+### Massive Amazon cloud service outage disrupts sites
+Note:
+4 hours of problems, 28.02
+Amazon Web Services is a giant provider of the back-end of the Internet. For sites like Netflix, Spotify, Pinterest and Buzzfeed, as well as tens of thousands of smaller sites, it provides cloud-based storage and web services for companies so they don’t have to build their own server farms,
+Amazon wasn't able to update its health dashboard because it was hosted in their cloud :)
 
 <!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/89/fa/06/89fa06b360359633a8d2f3887cd85fe1.jpg" -->
-
-## Remember:
-- Build your apps like you're being attacked, beacuse eventually you will be!
-- Never trust user input
-- Assume that anything sent to your website is malicious unless proven otherwise
-- Prepare for the worst
-- Think "How could I break this?"
-
----
 
 #### Security
 # Best practices
 
-Do you know how passwords are stored?
+## Remember:
+- Build your apps like you're being attacked, beacuse eventually you will be! <!-- .element: class="fragment" data-fragment-index="1" -->
+- Never trust user input <!-- .element: class="fragment" data-fragment-index="2" -->
+- Assume that anything sent to your website is malicious unless proven otherwise <!-- .element: class="fragment" data-fragment-index="3" -->
+- Prepare for the worst <!-- .element: class="fragment" data-fragment-index="4" -->
+- Think "How could I break this?" <!-- .element: class="fragment" data-fragment-index="5" -->
+
+---
 
 ### Authentication and Authorization is not the same thing!!!
-- Veryfying that a user provided their security credentials correctly
-- Confirming that a particular user has access to a specific resource
+- (Authentication) Veryfying that a user provided their security credentials correctly
+- (Authorization) Confirming that a particular user has access to a specific resource
 Note:
 1 authentication, 2 Authorization
 https://dzone.com/articles/10-most-common-web-security-vulnerabilities
@@ -43,7 +50,9 @@ https://dzone.com/articles/10-most-common-web-security-vulnerabilities
 #### Security
 # OWASP
 
-OWASP stands for Open Web Application Security Project
+### OWASP stands for Open Web Application Security Project
+Note:
+an international, non-profit organization whose goal is to improve software security across the globe.
 
 ### 1. Injection Flaws
 Happens while passing unfiltered data
@@ -54,6 +63,10 @@ SQL injection, browser, LDAP server (katalogowanie)
 ## 1. Injection Flaws (Prevention)
 - Filter and conquer
 - Rely on framework's filtering functions
+- Prepared statements
+
+#### Prepared statement
+
 
 ## 2. Broken Authentication 
 - Today nobody roll their own authentication code because it is to hard
