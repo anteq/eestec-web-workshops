@@ -23,11 +23,13 @@ Note:
 4 hours of problems, 28.02
 Amazon Web Services is a giant provider of the back-end of the Internet. For sites like Netflix, Spotify, Pinterest and Buzzfeed, as well as tens of thousands of smaller sites, it provides cloud-based storage and web services for companies so they don’t have to build their own server farms,
 Amazon wasn't able to update its health dashboard because it was hosted in their cloud :)
-
-<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/89/fa/06/89fa06b360359633a8d2f3887cd85fe1.jpg" -->
+It was annual AWSome Day - free online training event that will provide a step-by-step introduction to the core AWS services for compute, storage, database and networking.
+cause of that was a simple typo! Engeeners of S3 team were debugging the billing sysyem. They needed to take samall number of servers offline, but because of typo larger set of servers was removed. Some of the removed servers supported two other S3 subsystems. One of them was responsible for managing metadata and location information of all S3 objects in the region. Without it services taht depend on it couldnt perform basic data retrieval and storage tasks. After taking servers offline the various systems had to do a "full restart". Amazon claims that s3 (simple storage service) was design to handle losing a few servers. What it had more trouble with was handling the massive restart.
 
 #### Security
 # Best practices
+
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/89/fa/06/89fa06b360359633a8d2f3887cd85fe1.jpg" -->
 
 ## Remember:
 - Build your apps like you're being attacked, beacuse eventually you will be! <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -54,19 +56,47 @@ https://dzone.com/articles/10-most-common-web-security-vulnerabilities
 Note:
 an international, non-profit organization whose goal is to improve software security across the globe.
 
-### 1. Injection Flaws
+## 1. Injection Flaws
 Happens while passing unfiltered data
-Never use a blacklist - hard to create, easy to bypass
 Note:
 SQL injection, browser, LDAP server (katalogowanie)
 
+### How SQL injection works
+
+#### Input box
+![](md/8-security/Sparrow.PNG)
+<br /> 
+### Then in DB you get something like that 
+![](md/8-security/Select.PNG)
+
+![](md/8-security/evil_child.jpg)
+
+#### Input box
+![](md/8-security/Input_box.PNG)
+<br /> 
+### Then in DB you get something like that 
+![](md/8-security/Select2.PNG)
+
+## Can you see the potential?
+
+#### Input box
+#### PureEvil'; DROP TABLE WebWizards; --
+<br /> 
+### Then in DB you get something like that 
+![](md/8-security/Select3.PNG)
+
+<!-- .slide: data-background-image="md/8-security/atom_bomb.jpg" -->
+
 ## 1. Injection Flaws (Prevention)
 - Filter and conquer
+- Never use a blacklist - hard to create, easy to bypass
 - Rely on framework's filtering functions
 - Prepared statements
 
-#### Prepared statement
-
+### Prepared statement
+#### Simply seperate data and code
+![](md/8-security/Select4.PNG)
+![](md/8-security/execute.PNG)
 
 ## 2. Broken Authentication 
 - Today nobody roll their own authentication code because it is to hard
