@@ -9,11 +9,8 @@ It's such a big umbrella that almost anything can be put under it.
 Note: 
 Napisać zdanie "developing sites that are connected to the Internet" później je uogólniać aż wyjdzie "doing stuff" czy coś
 
-#### Intro
-# Basics of Basics
+### An intro from our older colleagues (9m)
+![yt](dU1xS07N-FA)
 
-- computer (lol)
-- computer program
-- process
-- server
-- IP address
+<!-- .slide: data-background-image="https://media.giphy.com/media/11LbwKX02dszWU/giphy.gif" -->
+One might argue that **software developer = web developer = developer**.

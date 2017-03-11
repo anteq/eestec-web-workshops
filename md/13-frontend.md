@@ -90,6 +90,27 @@ dodać filmik z yt albo gif z flashem (queen)
 ---
 
 #### Frontend
+# Javascript
+
+Created in 10 days. Seriously. May 1995.
+
+People say that it's poorly designed, but...
+Note:
+Netscape Communications realized that the Web needed to become more dynamic. Marc Andreessen, the founder of the company believed that HTML needed a "glue language" that was easy to use by Web designers and part-time programmers to assemble components such as images and plugins, where the code could be written directly in the Web page markup. In 1995, the company recruited Brendan Eich with the goal of embedding the Scheme programming language into its Netscape Navigator. Before he could get started, Netscape Communications collaborated with Sun Microsystems to include in Netscape Navigator Sun's more static programming language Java, in order to compete with Microsoft for user adoption of Web technologies and platforms.[11] Netscape Communications then decided that the scripting language they wanted to create would complement Java and should have a similar syntax, which excluded adopting other languages such as Perl, Python, TCL, or Scheme. To defend the idea of JavaScript against competing proposals, the company needed a prototype. Eich wrote one in 10 days, in May 1995.
+Microsoft script technologies including VBScript and JScript were released in 1996. JScript, a reverse-engineered implementation of Netscape's JavaScript, was part of Internet Explorer 3.
+
+JS had to "look like Java" only less so, be Java's dumb kid brother or boy-hostage sidekick. Plus, I had to be done in ten days or something worse than JS would have happened.
+
+Weird?
+0.1 + 0.2, try it.
+
+WUT presentation
+
+![https://c1.staticflickr.com/5/4066/4704268314_bb0e9d0ff3_b.jpg](https://c1.staticflickr.com/5/4066/4704268314_bb0e9d0ff3_b.jpg)
+
+---
+
+#### Frontend
 # Basics
 
 ## Fasten your seatbelts - it's history time again
