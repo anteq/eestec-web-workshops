@@ -58,7 +58,7 @@ Your reasons for joining us today? :)
 #### Intro
 # Who are we
 
-<!-- .slide: data-background-image="md/1-intro_img/Scared_Harry&Ron.gif" -->
+<!-- .slide: data-background-image="../md/1-intro_img/Scared_Harry&Ron.gif" -->
 ## So this is us
 
 ## Ok so, we're
@@ -66,11 +66,11 @@ Your reasons for joining us today? :)
 - students of MSc in ICT here at AGH <!-- .element: class="fragment" data-fragment-index="2" -->
 - EESTECers for 3rd year now <!-- .element: class="fragment" data-fragment-index="3" -->
 
-<!-- .slide: data-background-image="img/kyn.jpg" -->
+<!-- .slide: data-background-image="../img/kyn.jpg" -->
 
-<!-- .slide: data-background-image="img/fin.jpg" -->
+<!-- .slide: data-background-image="../img/fin.jpg" -->
 
-<!-- .slide: data-background-image="img/hacks.jpg" -->
+<!-- .slide: data-background-image="../img/hacks.jpg" -->
 Note:
 dodac zdj
 - ALOC
@@ -78,11 +78,11 @@ dodac zdj
 - Barca
 - Hackathony
 
-<img src="img/grzanka.jpg" height="200px"></img> <img src="img/wrobel.jpg" height="200px"></img> <br />
+<img src="../img/grzanka.jpg" height="200px"></img> <img src="../img/wrobel.jpg" height="200px"></img> <br />
 <span class="fragment" data-fragment-index="1">Plus guests!</span> <br />
-<img src="img/amozemanaimieprzemek.jpg" height="200px" class="fragment" data-fragment-index="2"></img>
-<img src="img/marek.jpg" height="200px" class="fragment" data-fragment-index="3"></img>
-<img src="img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img>
+<img src="../img/amozemanaimieprzemek.jpg" height="200px" class="fragment" data-fragment-index="2"></img>
+<img src="../img/marek.jpg" height="200px" class="fragment" data-fragment-index="3"></img>
+<img src="../img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img>
 
 ---
 
@@ -93,9 +93,10 @@ dodac zdj
 - more than 20 hours of time spent together <3
 
 #### Aims
-- understand some "high-level" concepts in Web
-- get to know all these weird buzzwords
-- have fun and bond together!
+- become familiar some "high-level" concepts in Web  <!-- .element: class="fragment" data-fragment-index="1" -->
+- get to know all these weird buzzwords  <!-- .element: class="fragment" data-fragment-index="2" -->
+- understand the variety of web dev tools  <!-- .element: class="fragment" data-fragment-index="3" --> 
+- have fun and bond together! <!-- .element: class="fragment" data-fragment-index="4" --> 
 
 <!-- .slide: data-background-image="https://68.media.tumblr.com/91e937a6e603df504bc0befe3be3bb42/tumblr_nigpufykwD1si3dqao1_500.gif" -->
 
@@ -113,9 +114,9 @@ We also have some guys from LC Kraków here! :)
 #### Topics
 - Introduction (You are here now) <!-- .element: class="fragment" data-fragment-index="1" -->
 - History <!-- .element: class="fragment" data-fragment-index="1" -->
-- Building blocks: <!-- .element: class="fragment" data-fragment-index="1" -->
+- Building blocks <!-- .element: class="fragment" data-fragment-index="1" -->
 - Backend <!-- .element: class="fragment" data-fragment-index="1" -->
-- RoR practice <!-- .element: class="fragment" data-fragment-index="1" -->
+- RoR (practice) <!-- .element: class="fragment" data-fragment-index="1" -->
 - Scaling up (cloud and stuff) <!-- .element: class="fragment" data-fragment-index="2" -->
 - Security <!-- .element: class="fragment" data-fragment-index="2" -->
 - Communication <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -128,13 +129,15 @@ We also have some guys from LC Kraków here! :)
 - IT in EESTEC <!-- .element: class="fragment" data-fragment-index="5" -->
 - Summary <!-- .element: class="fragment" data-fragment-index="5" -->
 
-<!-- .slide: data-background-image="http://www.spindrift-racing.com/jules-verne/drupal/sites/default/files/u7/iceberg_Clevenger.jpeg" -->
-
 #### Topics (bonus)
 - Git?
 - Angular?
 - Making Cool Web Presentation Like This One?
 - ?
+
+<!-- .slide: data-background-image="http://www.spindrift-racing.com/jules-verne/drupal/sites/default/files/u7/iceberg_Clevenger.jpeg" -->
+
+<!-- .slide: data-background-image="https://edge.alluremedia.com.au/m/k/2014/08/tetrissuccess.gif" -->
 
 If you are interested in some specific topic in web development, speak up! Maybe we'll be able to help. :)
 

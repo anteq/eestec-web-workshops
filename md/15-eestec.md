@@ -6,8 +6,7 @@
 #### IT in EESTEC
 # IT team
 
-Todo
-
+<!-- .slide: data-background-image="http://wrzuc.se/images/58c3f03d3743c.jpg" -->
 ---
 
 #### IT in EESTEC

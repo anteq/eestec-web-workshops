@@ -25,11 +25,21 @@ obrazek tutaj
 
 Eg. Facebook without Like API and with Like API
 
+![yt](s7wmiS2mSXY)
+
 ---
 
 How does that relate to Programming?
 
 ## Interfaces (in programming)
+
+You remember MVC?
+
+**Not only on backend!**
+
+In API-based solutions: view is the API format.
+Note:
+Backend: M->C->V -----> M->C->V 
 
 
 ---
@@ -247,7 +257,7 @@ But... both are not very efficient, right?
 <!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/a1/8e/f6/a18ef6865622b367bee21c0dfd2aebd0.gif" -->
 ## Introducing... WEBSOCKETS!!!!1!!1
 
-![./img/httpmeme.png](./img/httpmeme.png)
+![../img/httpmeme.png](../img/httpmeme.png)
 
 ![http://wrzuc.se/images/58bb6835abe05.jpg](http://wrzuc.se/images/58bb6835abe05.jpg)
 Websockets aren't replacement for HTTP, they're more of an extension.
