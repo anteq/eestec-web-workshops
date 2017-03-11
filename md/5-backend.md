@@ -619,8 +619,7 @@ CLI = Command Line Interface.
 ---
 
 #### Backend
-## Microservices
+# Microservices
 
-Sooooo, our app has plenty of modules.
-Note:
-https://www.youtube.com/watch?v=CKL3fV5UR8w
+Fancy idea of how to structurize your app.
+![yt](CKL3fV5UR8w)
