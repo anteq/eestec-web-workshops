@@ -132,7 +132,7 @@ We also have some guys from LC Kraków here! :)
 #### Topics (bonus)
 - Git?
 - Angular?
-- Making Cool Web Presentation Like This One?
+- Making Badass Web Presentations Like This One?
 - Linux CLI?
 - ?
 
@@ -164,4 +164,8 @@ you can follow the presentation on http://anteq.github.io/eestec-web-workshops/ 
 - It's like the open mic. <!-- .element: class="fragment" data-fragment-index="2" -->
 - Whatever you found interesting, funny or worth sharing; YT video, meme, article or idea - this is time. If you want. :) <!-- .element: class="fragment" data-fragment-index="3" -->
 
-### Ready?
+<!-- .slide: data-background-image="https://31.media.tumblr.com/83f4a5abe56319f41633a705ed55b19b/tumblr_inline_n3in2ww96R1qbygev.gif" -->
+
+<!-- .slide: data-background-image="http://thefw.com/files/2013/02/troy.gif" -->
+## STAY WITH US.
+#### Today is most packed with stuff. Next days will be easier, promise!

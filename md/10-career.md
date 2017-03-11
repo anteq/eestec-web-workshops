@@ -134,7 +134,7 @@ Można ich zapytać gdzie widzą się za 20 lat
 - You don't have to be awesome at everything
 - You have the luxury of defining your own path by yourself
 
-## Fear corpo carrer path
+## Fear corpo career path
 - Senior developer into IT Lead transition
 - But not everybody has Leader qualities
 # Outcome:

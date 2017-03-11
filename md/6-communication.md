@@ -41,7 +41,6 @@ In API-based solutions: view is the API format.
 Note:
 Backend: M->C->V -----> M->C->V 
 
-
 ---
 
 Imagine, how should we structure such API?
@@ -52,7 +51,7 @@ User may want to:
 - get posts on wall
 
 ## Exercise
-Try to imagine  how such API would work?
+Try to imagine how such API would work?
 
 ---
 
@@ -285,4 +284,3 @@ Note:
 
 #### Communication
 # Explore the API
-

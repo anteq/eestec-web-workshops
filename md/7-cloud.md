@@ -180,8 +180,6 @@ Used by Facebook, MSN, Bloomberg, GE, Yahoo...
 A little bit different though - really simple integration with open source. <br />
 Used by Zendesk, Heroku, BitTorrent and many many more...
 
-
-
 ---
 
 #### Scaling up
