@@ -63,28 +63,16 @@ Remember the building blocks?
 6. JS.
 
 Cloud allows you to focus on the important stuff - the content.
-Note:
-The company handles increasing
+
+### But that means that I lose control over some parts!!1!!
+
+<!-- .slide: data-background-image-"https://uproxx.files.wordpress.com/2013/08/01-1-bright-side.gif" -->
 
 ## Why?
 - easy to scale
 - easy to maintain
 - easy to start
 
----
-
-#### Scaling up  
-# Cloud as a user
-
-![https://www.youtube.com/watch?v=TTNgV0O_oTg](https://www.youtube.com/watch?v=TTNgV0O_oTg)
-
-So...
-
-- Gmail uses cloud.
-- Youtube uses cloud.
-- Your phone uses cloud.
-
----
 
 #### Scaling up
 # Different ways
@@ -105,6 +93,19 @@ Note: model you are provided with access to application softwares often referred
 ![http://pbxl.co.jp/wordpress/wp-content/uploads/2015/05/cloud_en.png](http://pbxl.co.jp/wordpress/wp-content/uploads/2015/05/cloud_en.png)
 
 ![http://mschnlnine.vo.llnwd.net/d1/inetpub/kevinremde/Images/679669067395_DBE9/image_3.png](http://mschnlnine.vo.llnwd.net/d1/inetpub/kevinremde/Images/679669067395_DBE9/image_3.png)
+
+---
+
+#### Scaling up  
+# Cloud as a user
+
+![https://www.youtube.com/watch?v=TTNgV0O_oTg](https://www.youtube.com/watch?v=TTNgV0O_oTg)
+
+So...
+
+- Gmail uses cloud.
+- Youtube uses cloud.
+- Your phone uses cloud.
 
 ---
 
