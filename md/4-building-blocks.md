@@ -151,7 +151,4 @@ Backend dev doesn't need to know how data is presented.
 **Stack** is a common name for a set of technologies used in project.
 
 ### LAMP vs MEAN
-![http://andyshora.com/img/stacks-change.jpg](http://andyshora.com/img/stacks-change.jpg)
-
-
-
+![http://andyshora.com/img/stacks-change.jpg](http://andyshora.com/img/stacks-change.jpg)  <!-- .element: style="width:600px" -->
