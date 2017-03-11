@@ -64,18 +64,18 @@ SQL injection, browser, LDAP server (katalogowanie)
 ### How SQL injection works
 
 #### Input box
-![](md/8-security/Sparrow.PNG)
+![](../md/8-security/Sparrow.PNG)
 <br /> 
 ### Then in DB you get something like that 
-![](md/8-security/Select.PNG)
+![](../md/8-security/Select.PNG)
 
-![](md/8-security/evil_child.jpg)
+![](../md/8-security/evil_child.jpg)
 
 #### Input box
-![](md/8-security/Input_box.PNG)
+![](../md/8-security/Input_box.PNG)
 <br /> 
 ### Then in DB you get something like that 
-![](md/8-security/Select2.PNG)
+![](../md/8-security/Select2.PNG)
 
 ## Can you see the potential?
 
@@ -83,7 +83,7 @@ SQL injection, browser, LDAP server (katalogowanie)
 #### PureEvil'; DROP TABLE WebWizards; --
 <br /> 
 ### Then in DB you get something like that 
-![](md/8-security/Select3.PNG)
+![](../md/8-security/Select3.PNG)
 
 <!-- .slide: data-background-image="md/8-security/atom_bomb.jpg" -->
 
@@ -95,8 +95,8 @@ SQL injection, browser, LDAP server (katalogowanie)
 
 ### Prepared statement
 #### Simply seperate data and code
-![](md/8-security/Select4.PNG)
-![](md/8-security/execute.PNG)
+![](../md/8-security/Select4.PNG)
+![](../md/8-security/execute.PNG)
 
 ## 2. Broken Authentication 
 - Today nobody roll their own authentication code because it is to hard
@@ -151,8 +151,7 @@ Usually, the workaround is simply converting all HTML entities—so that script 
 - In transit: Use HTTPS with a proper certificate and PFS (Perfect Forward Secrecy). Do not accept anything over non-HTTPS connections. Have the secure flag on cookies.
 - In storage: This is harder. First and foremost, you need to lower your exposure. If you don't need sensitive data, shred it.
 
-# Data you don't have can't be stolen 
-//Stan Lee
+![](../md/8-security/profound_advice.jpg)
 
 ## 7. Missing Function-Level Access Control 
 - In other words an authorization failure
