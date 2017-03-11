@@ -46,3 +46,14 @@ Note:
 - jakie sa róznice w performance modularnych frameworków:
 	- z jednego api moze korzystac wiecej niz jedna aplikacjca (przykład - aplikacje mobilne i desktopowe czy webowe)
 	- połączenia Computer-to-Computer ()
+
+	<!--## When I say Backend you think... Database
+Note:
+- i teraz płynne przejscie z Backend do DB - przechowywanie informacji
+
+![](http://s2.quickmeme.com/img/61/61c1ee2ce9d31c894d188b7b17cacee90ffdece8bc4c4798d10100b7515820de.jpg)-->
+
+
+![](md/5-backend/yo_dbjpg.jpg)
+Note:
+- Najbardziej podstawowe db (SQL) mają swój język który, jeszcze bardziej ułatwia prace z nimi

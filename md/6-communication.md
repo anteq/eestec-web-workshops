@@ -265,5 +265,24 @@ Websockets aren't replacement for HTTP, they're more of an extension.
 ---
 
 #### Communication
+# Asynchronous?
+
+## What is that word?
+![](http://cdn3.teen.com/wp-content/uploads/2015/07/harry-potter-ron-weasley-confused.jpg)
+
+## An example for thinking.
+
+## What is the single most important reason that we need this?
+
+## When communicating, time of response is *nondeterministic*.
+
+## Short excercise
+![](https://img.buzzfeed.com/buzzfeed-static/static/2014-12/30/15/enhanced/webdr10/enhanced-buzz-wide-18359-1419973035-10.jpg)
+Note: 
+Ćwiczenie z onetu (20 min)
+
+---
+
+#### Communication
 # Explore the API
 

@@ -17,16 +17,25 @@ But on the programming level...
 #### Building blocks
 ## A brief explanation of how Internet works
 
-Let's assume I have a webpage with a quote. Wee.
+Let's assume I want to have a website with spells. Like... a website with spells and stuff. <br />
+
+Let's keep it basic - one spell at the beginning. <br />
+(time to draw)
+Note:
+Come up with a name. We came up with spellicious, spellillitious, spellyourass, spell.io, doyouevenspell.com, brospellatme.com
+
 ```
 <html>
-    <body>After all this time? Always.</body>
+    <body>
+        <div>My Spell App</div>
+        <p>Alohomora</p>
+    </body>
 </html>
 ```
 I keep it in index.html file.
 Note:
-- When you type eestec.net... 
-- it resolves eestec.net to IP address that identifies the computer that has our site
+- When you type myspellapp.net... 
+- it resolves myspellapp.net to IP address that identifies the computer that has our site
 - then our browser sends a HTTP request to this server: "hey, GET me this page"
 - server has a process listening on :80 port 
 - looks up the file on the HDD
@@ -50,27 +59,27 @@ No magic here :(.
 #### Building blocks
 ## Dynamic Web
 
-But... we don't want our site to have just a quote. Or text.
-We want fireworks, login pages, and randomized quotes!!11!
+But... we don't want our site to have just one spell.
+We want some images, cool logo, randomized spells!!11!
 Note:
-Not sure if it's proper naming though.
+Not sure if it's proper naming though. Draw it.
 
-## Let's start with a randomized quote.
+## Let's start with a "random spell" feature.
 
 #### You can...
-## have different files with different quotes.
+## have different files with different spells.
 Naive, but ok. May work for a few quotes, but difficult in maintenance. <!-- .element: class="fragment" data-fragment-index="2" -->
 
 #### You can...
-### have quotes as array of strings and make a process return a randomized quote instead of a html file
+### have spells as array of strings and make a process return a randomized quote instead of a html file
 This might work, but it's hard to return sth more than that. <!-- .element: class="fragment" data-fragment-index="2" -->
 
 #### You can...
-### have quotes as array of strings and create a HTML template and make your process replace the {{place for quote}}
+### have spells as array of strings and create a HTML template and make your process replace the {{place for spell}}
 That's just fine... but array of strings isn't the best possible way to do that, right? <!-- .element: class="fragment" data-fragment-index="2" -->
 
 #### You can...
-### store quotes somewhere and create a HTML template and make your process replace the {{place for quote}}
+### store spells somewhere else and create a HTML template and make your process replace the {{place for spell}}
 Scalable and cool. <!-- .element: class="fragment" data-fragment-index="2" -->
 
 1. A computer with Internet connection. <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -78,7 +87,7 @@ Scalable and cool. <!-- .element: class="fragment" data-fragment-index="2" -->
 3. Process listening and responding to requests. <!-- .element: class="fragment" data-fragment-index="1" -->
 4. Template for the content. <!-- .element: class="fragment" data-fragment-index="1" -->
 
-## And what about these fireworks?
+## And what about these images, logos and fireworks?
 
 #### You can...
 ## add some photos as set of JPEGs
@@ -86,7 +95,9 @@ Meh, not dynamic at all.
 
 #### You can...
 ## add some animations as GIFs
-Kinda works... but I want the fireworks to follow the mouse!!!1!
+Well you can add GIFs. 
+
+But I want my mouse cursor to be the a magic wand! And the fireworks to follow the mouse!!!1!
 
 Turns out... you can't! Why?
 

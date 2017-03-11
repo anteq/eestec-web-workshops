@@ -133,6 +133,7 @@ We also have some guys from LC Kraków here! :)
 - Git?
 - Angular?
 - Making Cool Web Presentation Like This One?
+- Linux CLI?
 - ?
 
 <!-- .slide: data-background-image="http://www.spindrift-racing.com/jules-verne/drupal/sites/default/files/u7/iceberg_Clevenger.jpeg" -->
