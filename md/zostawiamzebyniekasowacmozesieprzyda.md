@@ -26,3 +26,23 @@ wyszukac z alexie ciekawostki o eestecu
 http://internet-map.net/
 Note:
 - http://internet-map.net/ - fajna ciekawostka 
+
+## All you need is... backend
+### You already did it!
+Note:
+- do zrobienia dobrej strony potrzebny jest tylko dobrze zrobiony backend 
+- frontendowe frameworki są głównie potrzebne do komunikacji z api
+
+## It all depends on <br />
+<img src="http://www.etrainingpedia.com/wp-content/uploads/2015/11/8df1715368055f5cc8b8c69ef0e05641_c5e3c55967a2c8dcc83a77ca41d88461_w548_.jpg"></img>
+Note:
+- modele tworzenia aplikacji (strony statyczne/dynamiczne i takie które wystawiają api)
+
+## Why API?
+- Because we don't want to be selfish
+- It's smart <br />
+![](md/5-backend/LUKE.jpg)
+Note:
+- jakie sa róznice w performance modularnych frameworków:
+	- z jednego api moze korzystac wiecej niz jedna aplikacjca (przykład - aplikacje mobilne i desktopowe czy webowe)
+	- połączenia Computer-to-Computer ()

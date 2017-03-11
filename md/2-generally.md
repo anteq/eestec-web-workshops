@@ -14,14 +14,3 @@ Napisać zdanie "developing sites that are connected to the Internet" później 
 
 <!-- .slide: data-background-image="https://media.giphy.com/media/11LbwKX02dszWU/giphy.gif" -->
 One might argue that **software developer = web developer = developer**.
-
----
-
-#### Intro
-# Basics of Basics
-
-- computer (lol)
-- computer program
-- process
-- server
-- IP address

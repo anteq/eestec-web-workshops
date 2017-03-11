@@ -126,6 +126,10 @@ Web service (usually) = Back-end + Front-end
 ### Why do you think it's worth to separate it?
 (that's a question)
 
+### Remember
+1. Engineers are lazy. <!-- .element: class="fragment" data-fragment-index="1" -->
+2. Engineers like to abstract. <!-- .element: class="fragment" data-fragment-index="2" -->
+
 ### Reason 1: Easier to maintain
 Note:
 When code is modular, it's much easier to work on it. 

@@ -6,7 +6,18 @@ Remember how internet works?
 Backend = server process. <br />
 Any language, really.
 
-Let's start... in C. :D <br />
+<!-- .slide: data-background-image="http://www.reactiongifs.com/r/rbp.gif" -->
+Any?
+
+#### CGI (Common Gateway Interface)
+An interface enabling communication between WWW server and other programms that run on server. <br />
+![http://www.sergey.com/web_course/images/cgi.jpg](http://www.sergey.com/web_course/images/cgi.jpg)
+Note:
+Za pomocą programów CGI można dynamicznie (na żądanie klienta) generować dokumenty HTML, uzupełniając je np. treścią pobieraną z bazy danych.
+
+Of course, usually it's in Python. Java. JavaScript. Scala. PHP.
+
+How about a server... in C. :D <br />
 <img src="http://kimkarpeles.com/wp-content/uploads/2013/05/work-in-progress1.png" height="300px"></img>
 Note:
 Exercise
@@ -14,42 +25,62 @@ Exercise
 ---
 
 #### Backend
+# The meat
+
+<!-- .slide: data-background-image="https://68.media.tumblr.com/bde33ad2ec722b87057642e8b9a8af1e/tumblr_nwy9cfQScI1ukrx8mo1_400.gif" --> 
+Ok, but handling requests like that manually sucks.
+
+### Remember
+1. Engineers are lazy. <!-- .element: class="fragment" data-fragment-index="1" -->
+2. Engineers like to abstract. <!-- .element: class="fragment" data-fragment-index="2" -->
+
+Therefore... we can automate this stuff!
+
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/39/38/cc/3938cc46030d661fc8d5f29199063447.gif" -->
+
+A **web framework** is a way to automate repeating tasks (like request handling, socket operations, persisting the session etc.).
+
+It also allows you to organize your code properly, use packages developed by community and soooo much more.
+
+---
+
+#### Backend
 # MVC
 
-## Model 
-#### representation of problem or application logic
+If you'll remember one thing from this workshops - let it be it. :)
 
-## View 
-#### describes how to present certain Model's part in user interface
+MVC = Model View Controller.
 
-## Controller 
-#### for input gets user's data and replays by updating Model and refresh View
+It's a *software architecture pattern* - a general reusable solution to a commonly occurring problem. In this case - organizing code in website.
+
+1. Model - represents the problem or application logic <!-- .element: class="fragment" data-fragment-index="1" -->
+2. View - describes how to present certain Model's part in user interface <!-- .element: class="fragment" data-fragment-index="2" -->
+3. Controller - updates Model and refreshes View <!-- .element: class="fragment" data-fragment-index="3" -->
 Note:
 - MVC (wzorzec Model View Controller i jego odmiany) i jak jest robione gdzie indziej
 
+1. Model - how do I represent the data? <!-- .element: class="fragment" data-fragment-index="1" -->
+2. Controller - what am I doing? <!-- .element: class="fragment" data-fragment-index="2" -->
+3. View - what do I see? <!-- .element: class="fragment" data-fragment-index="3" -->
+
+![http://doriansobacki.pl/wp-content/uploads/2016/03/mvc_role_diagram.png](http://doriansobacki.pl/wp-content/uploads/2016/03/mvc_role_diagram.png)
+
+### Why?
+- reusability of code <!-- .element: class="fragment" data-fragment-index="1" -->
+- less mess <!-- .element: class="fragment" data-fragment-index="2" -->
+- easy to test and troubleshoot <!-- .element: class="fragment" data-fragment-index="3" -->
+- de facto a standard <!-- .element: class="fragment" data-fragment-index="4" -->
+
 ![](http://s2.quickmeme.com/img/21/2142bd8b63c2985b650a7796ee0767f0e07f8de2f6540dab06d1760b68faa134.jpg)
 
-## All you need is... backend
-### You already did it!
-Note:
-- do zrobienia dobrej strony potrzebny jest tylko dobrze zrobiony backend 
-- frontendowe frameworki są głównie potrzebne do komunikacji z api
+**Not only on backend!**
 
-## It all depends on <br />
-<img src="http://www.etrainingpedia.com/wp-content/uploads/2015/11/8df1715368055f5cc8b8c69ef0e05641_c5e3c55967a2c8dcc83a77ca41d88461_w548_.jpg"></img>
+In API-based solutions: view is the API format.
 Note:
-- modele tworzenia aplikacji (strony statyczne/dynamiczne i takie które wystawiają api)
-
-## Why API?
-- Because we don't want to be selfish
-- It's smart <br />
-![](md/5-backend/LUKE.jpg)
-Note:
-- jakie sa róznice w performance modularnych frameworków:
-	- z jednego api moze korzystac wiecej niz jedna aplikacjca (przykład - aplikacje mobilne i desktopowe czy webowe)
-	- połączenia Computer-to-Computer ()
+Backend: M->C->V -----> M->C->V 
 
 ---
+
 #### Backend
 # Databases
 
@@ -123,8 +154,3 @@ Note:
 - CLI > clicking
 
 ![](https://www.mememaker.net/static/images/memes/4282491.jpg)
-
----
-
-#### Backend
-# CLI
