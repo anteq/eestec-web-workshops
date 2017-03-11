@@ -4,32 +4,6 @@
 Note:
 Logo warsztatow
 
-<!-- .slide: data-background-image="md/1-intro_img/Scared_Harry&Ron.gif" -->
-## So this is us
-
-## Ok so, we're
-- Antek & Boitec <!-- .element: class="fragment" data-fragment-index="1" -->
-- students of MSc in ICT here at AGH <!-- .element: class="fragment" data-fragment-index="2" -->
-- EESTECers for 3rd year now <!-- .element: class="fragment" data-fragment-index="3" -->
-
-<!-- .slide: data-background-image="img/kyn.jpg" -->
-
-<!-- .slide: data-background-image="img/fin.jpg" -->
-
-<!-- .slide: data-background-image="img/hacks.jpg" -->
-Note:
-dodac zdj
-- ALOC
-- Finlandia
-- Barca
-- Hackathony
-
-<img src="img/grzanka.jpg" height="200px"></img> <img src="img/wrobel.jpg" height="200px"></img> <br />
-<span class="fragment" data-fragment-index="1">Plus guests!</span> <br />
-<img src="img/amozemanaimieprzemek.jpg" height="200px" class="fragment" data-fragment-index="2"></img>
-<img src="img/marek.jpg" height="200px" class="fragment" data-fragment-index="3"></img>
-<img src="img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img>
-
 ---
 
 #### Intro
@@ -82,6 +56,37 @@ Your reasons for joining us today? :)
 ---
 
 #### Intro
+# Who are we
+
+<!-- .slide: data-background-image="md/1-intro_img/Scared_Harry&Ron.gif" -->
+## So this is us
+
+## Ok so, we're
+- Antek & Boitec <!-- .element: class="fragment" data-fragment-index="1" -->
+- students of MSc in ICT here at AGH <!-- .element: class="fragment" data-fragment-index="2" -->
+- EESTECers for 3rd year now <!-- .element: class="fragment" data-fragment-index="3" -->
+
+<!-- .slide: data-background-image="img/kyn.jpg" -->
+
+<!-- .slide: data-background-image="img/fin.jpg" -->
+
+<!-- .slide: data-background-image="img/hacks.jpg" -->
+Note:
+dodac zdj
+- ALOC
+- Finlandia
+- Barca
+- Hackathony
+
+<img src="img/grzanka.jpg" height="200px"></img> <img src="img/wrobel.jpg" height="200px"></img> <br />
+<span class="fragment" data-fragment-index="1">Plus guests!</span> <br />
+<img src="img/amozemanaimieprzemek.jpg" height="200px" class="fragment" data-fragment-index="2"></img>
+<img src="img/marek.jpg" height="200px" class="fragment" data-fragment-index="3"></img>
+<img src="img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img>
+
+---
+
+#### Intro
 # Practical info
 
 - 5 days of magical journey!
@@ -91,6 +96,8 @@ Your reasons for joining us today? :)
 - understand some "high-level" concepts in Web
 - get to know all these weird buzzwords
 - have fun and bond together!
+
+<!-- .slide: data-background-image="https://68.media.tumblr.com/91e937a6e603df504bc0befe3be3bb42/tumblr_nigpufykwD1si3dqao1_500.gif" -->
 
 ## Rules
 - Discussion >> lecture <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -120,12 +127,13 @@ We also have some guys from LC Kraków here! :)
 - UX <!-- .element: class="fragment" data-fragment-index="4" -->
 - IT in EESTEC <!-- .element: class="fragment" data-fragment-index="5" -->
 - Summary <!-- .element: class="fragment" data-fragment-index="5" -->
-Note:
-Dodac pointer z mapy zeby bylo wiadomo o co kaman
+
+<!-- .slide: data-background-image="http://www.spindrift-racing.com/jules-verne/drupal/sites/default/files/u7/iceberg_Clevenger.jpeg" -->
 
 #### Topics (bonus)
 - Git?
 - Angular?
+- Making Cool Web Presentation Like This One?
 - ?
 
 If you are interested in some specific topic in web development, speak up! Maybe we'll be able to help. :)
@@ -140,6 +148,7 @@ Quite varied:
 - some memes <!-- .element: class="fragment" data-fragment-index="4" -->
 - some magic spells <!-- .element: class="fragment" data-fragment-index="6" -->
 - some group exercises <!-- .element: class="fragment" data-fragment-index="9" -->
+- some youtube videos <!-- .element: class="fragment" data-fragment-index="10" -->
 
 you can follow the presentation on http://anteq.github.io/eestec-web-workshops/ :)	
 
