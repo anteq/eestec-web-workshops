@@ -11,39 +11,39 @@ Logo warsztatow
 
 <!-- .slide: data-background-image="http://www.craveonline.com/images/stories/2011/Film/The%20Series%20Project/Harry%20Potter/Harry_Potter_1_Ron_and_Hermione.jpg" -->
 ### Thesis 1
-Coding is relatively easy to learn at home, if you're motivated enough.
+#### Coding is relatively easy to learn at home, if you're motivated enough.
 Note:
 One of great resources is Codecademy.
 
 <!-- .slide: data-background-image="http://agnieszkakochan.pl/wp-content/uploads/2016/05/hogwart.jpg" -->
 ### Thesis 2
-Studies programmes usually don't keep up with the rapid development of IT world.
+#### Studies programmes usually don't keep up with the rapid development of IT world.
 Note:
 How it is at your countries? Do you pursue such studies?
 
 <!-- .slide: data-background-image="http://vignette1.wikia.nocookie.net/harrypotter/images/b/b3/Library2.JPG" -->
 ### Thesis 3
-After some experience, a (software) engineer notices that most of his effort is spent not on actual coding, but on thinking how the code should be structured.
+#### After some experience, a (software) engineer notices that most of his effort is spent not on actual coding, but on thinking how the code should be structured.
 
 ![https://imgs.xkcd.com/comics/efficiency.png](https://imgs.xkcd.com/comics/efficiency.png)
 
 <!-- .slide: data-background-image="https://assets.entrepreneur.com/content/3x2/1300/20160618102315-Travelentrepreneurs.jpeg" -->
 ### Thesis 4
-Web developer's career is an attractive one to pursue.
+#### Web developer's career is an attractive one to pursue.
 Note:
 web development is one of career paths that can be cool AND fulfilling AND make you rich AND you can travel a lot AND basically you can do anything you want :P
 
 <!-- .slide: data-background-image="http://vignette1.wikia.nocookie.net/harrypotter/images/8/89/7-potters.jpg" -->
 ### Thesis 5
-IT landscape is changing so rapidly that there might be point in focusing on learning just one language or framework...
+#### IT landscape is changing so rapidly that there might be point in focusing on learning just one language or framework...
 
 <!-- .slide: data-background-image="http://www.opydo.pl/wp-content/uploads/2016/09/hp.jpg" -->
 ### Thesis 5.5
-... but high-level approach stays more or less the same.
+#### ... but high-level approach stays more or less the same.
 
 <!-- .slide: data-background-image="http://www.b2technews.com/uploads/7/0/9/2/7092377/1849999_orig.jpeg" -->
 ### Thesis 6
-Thorough understanding of principles of web is crucial on your interview.
+#### Thorough understanding of principles of web is crucial on your interview.
 Note:
 - Some of you already had their first time ^^hihi. 
 - Wywiazac dyskusje, 

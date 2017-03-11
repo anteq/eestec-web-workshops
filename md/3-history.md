@@ -6,11 +6,11 @@
 #### History
 # How'd we get here?
 
-![md/3-history/Confused-Ron.jpg](md/3-history/Confused-Ron.jpg)
+![md/3-history/Confused-Ron.jpg](../md/3-history/Confused-Ron.jpg)
 
 ### Let's start nostalgic
-<!-- .slide: data-background-image="md/3-history/Eniac.jpg" -->
-## First PCs
+<!-- .slide: data-background-image="md/3-history/Eniac.jpg" style="color:black !important" -->
+<h2 style="color:black">First PCs</h2>
 - not connected
 - space of entire room
 - for military and science purpose
@@ -101,7 +101,7 @@ Note:
 The idea was to analyze the interconnections between sites.
 
 ### 1996
-![md/3-history/google.jpg](md/3-history/google.jpg)
+![md/3-history/google.jpg](../md/3-history/google.jpg)
 
 ### Late 1990s
 There's money on the table?!
@@ -116,11 +116,11 @@ The stock of Amazon.com came to exceed $700 per share, for example, after having
 ### 1999 - Predictions about future
 ![http://wrzuc.se/images/58c3316b395b1.jpg](http://wrzuc.se/images/58c3316b395b1.jpg)
 
-### facebook.com - launched in 2004 <!-- .element: class="fragment" data-fragment-index="1" -->
-![md/3-history/facebook.jpg](md/3-history/facebook.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
+### facebook.com - launched in 2004
+![../md/3-history/facebook.jpg](../md/3-history/facebook.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
 
-### youtube.com - launched in 2005<!-- .element: class="fragment" data-fragment-index="1" -->
-![md/3-history/youtube.jpg](md/3-history/youtube.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
+### youtube.com - launched in 2005
+![../md/3-history/youtube.jpg](../md/3-history/youtube.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ### 2008 - Chrome
 - one tab one process <!-- .element: class="fragment" data-fragment-index="1" -->

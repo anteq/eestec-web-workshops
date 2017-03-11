@@ -4,36 +4,45 @@
 ---
 
 #### Security
-# A few thoughts
+## A few thoughts
 
 ### Everyone makes mistakes!
 
 ### One about a few chars that brought Chrome down
 https://www.youtube.com/watch?v=0fw5Cyh21TE
 
-TODO: Add LinkedIn here
+### LinkedIN
+Note:
+Cookies does not expires for a year! E.g. Banking cookies expires after 10-15 mins
+They did not use a salt while creating checksums
+May 2016 167 mln accounts of 117 mln users offered for sale 
+passwords like “linkedin’, ‘hopeless,’ ‘killmenow’, ‘iwishiwasdead’, and ‘hatemyjob’ where proven to be used
 
-TODO: Add Amazon here
-
-<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/89/fa/06/89fa06b360359633a8d2f3887cd85fe1.jpg" -->
-
-## Remember:
-- Build your apps like you're being attacked, beacuse eventually you will be!
-- Never trust user input
-- Assume that anything sent to your website is malicious unless proven otherwise
-- Prepare for the worst
-- Think "How could I break this?"
-
----
+### Massive Amazon cloud service outage disrupts sites
+Note:
+4 hours of problems, 28.02
+Amazon Web Services is a giant provider of the back-end of the Internet. For sites like Netflix, Spotify, Pinterest and Buzzfeed, as well as tens of thousands of smaller sites, it provides cloud-based storage and web services for companies so they don’t have to build their own server farms,
+Amazon wasn't able to update its health dashboard because it was hosted in their cloud :)
+It was annual AWSome Day - free online training event that will provide a step-by-step introduction to the core AWS services for compute, storage, database and networking.
+cause of that was a simple typo! Engeeners of S3 team were debugging the billing sysyem. They needed to take samall number of servers offline, but because of typo larger set of servers was removed. Some of the removed servers supported two other S3 subsystems. One of them was responsible for managing metadata and location information of all S3 objects in the region. Without it services taht depend on it couldnt perform basic data retrieval and storage tasks. After taking servers offline the various systems had to do a "full restart". Amazon claims that s3 (simple storage service) was design to handle losing a few servers. What it had more trouble with was handling the massive restart.
 
 #### Security
 # Best practices
 
-Do you know how passwords are stored?
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/89/fa/06/89fa06b360359633a8d2f3887cd85fe1.jpg" -->
+
+## Remember:
+- Build your apps like you're being attacked, beacuse eventually you will be! <!-- .element: class="fragment" data-fragment-index="1" -->
+- Never trust user input <!-- .element: class="fragment" data-fragment-index="2" -->
+- Assume that anything sent to your website is malicious unless proven otherwise <!-- .element: class="fragment" data-fragment-index="3" -->
+- Prepare for the worst <!-- .element: class="fragment" data-fragment-index="4" -->
+- Think "How could I break this?" <!-- .element: class="fragment" data-fragment-index="5" -->
+
+---
 
 ### Authentication and Authorization is not the same thing!!!
-- Veryfying that a user provided their security credentials correctly
-- Confirming that a particular user has access to a specific resource
+- (Authentication) Veryfying that a user provided their security credentials correctly
+- (Authorization) Confirming that a particular user has access to a specific resource
 Note:
 1 authentication, 2 Authorization
 https://dzone.com/articles/10-most-common-web-security-vulnerabilities
@@ -43,17 +52,51 @@ https://dzone.com/articles/10-most-common-web-security-vulnerabilities
 #### Security
 # OWASP
 
-OWASP stands for Open Web Application Security Project
+### OWASP stands for Open Web Application Security Project
+Note:
+an international, non-profit organization whose goal is to improve software security across the globe.
 
-### 1. Injection Flaws
+## 1. Injection Flaws
 Happens while passing unfiltered data
-Never use a blacklist - hard to create, easy to bypass
 Note:
 SQL injection, browser, LDAP server (katalogowanie)
 
+### How SQL injection works
+
+#### Input box
+![](../md/8-security/Sparrow.PNG)
+<br /> 
+### Then in DB you get something like that 
+![](../md/8-security/Select.PNG)
+
+![](../md/8-security/evil_child.jpg)
+
+#### Input box
+![](../md/8-security/Input_box.PNG)
+<br /> 
+### Then in DB you get something like that 
+![](../md/8-security/Select2.PNG)
+
+## Can you see the potential?
+
+#### Input box
+#### PureEvil'; DROP TABLE WebWizards; --
+<br /> 
+### Then in DB you get something like that 
+![](../md/8-security/Select3.PNG)
+
+<!-- .slide: data-background-image="md/8-security/atom_bomb.jpg" -->
+
 ## 1. Injection Flaws (Prevention)
 - Filter and conquer
+- Never use a blacklist - hard to create, easy to bypass
 - Rely on framework's filtering functions
+- Prepared statements
+
+### Prepared statement
+#### Simply seperate data and code
+![](../md/8-security/Select4.PNG)
+![](../md/8-security/execute.PNG)
 
 ## 2. Broken Authentication 
 - Today nobody roll their own authentication code because it is to hard
@@ -108,8 +151,7 @@ Usually, the workaround is simply converting all HTML entities—so that script 
 - In transit: Use HTTPS with a proper certificate and PFS (Perfect Forward Secrecy). Do not accept anything over non-HTTPS connections. Have the secure flag on cookies.
 - In storage: This is harder. First and foremost, you need to lower your exposure. If you don't need sensitive data, shred it.
 
-# Data you don't have can't be stolen 
-//Stan Lee
+![](../md/8-security/profound_advice.jpg)
 
 ## 7. Missing Function-Level Access Control 
 - In other words an authorization failure
