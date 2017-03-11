@@ -28,7 +28,7 @@ Exercise
 # The meat
 
 <!-- .slide: data-background-image="https://68.media.tumblr.com/bde33ad2ec722b87057642e8b9a8af1e/tumblr_nwy9cfQScI1ukrx8mo1_400.gif" --> 
-Ok, but handling requests like that manually sucks.
+#### Ok, but handling requests like that manually sucks.
 
 ### Remember
 1. Engineers are lazy. <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -59,7 +59,7 @@ It's a *software architecture pattern* - a general reusable solution to a common
 Note:
 - MVC (wzorzec Model View Controller i jego odmiany) i jak jest robione gdzie indziej
 
-1. Model - how do I represent the data? <!-- .element: class="fragment" data-fragment-index="1" -->
+1. Model - what is the data? <!-- .element: class="fragment" data-fragment-index="1" -->
 2. Controller - what am I doing? <!-- .element: class="fragment" data-fragment-index="2" -->
 3. View - what do I see? <!-- .element: class="fragment" data-fragment-index="3" -->
 
@@ -72,12 +72,6 @@ Note:
 - de facto a standard <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ![](http://s2.quickmeme.com/img/21/2142bd8b63c2985b650a7796ee0767f0e07f8de2f6540dab06d1760b68faa134.jpg)
-
-**Not only on backend!**
-
-In API-based solutions: view is the API format.
-Note:
-Backend: M->C->V -----> M->C->V 
 
 ---
 

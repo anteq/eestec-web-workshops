@@ -3,7 +3,41 @@
 
 <!-- .slide: data-background-image="http://www.spindrift-racing.com/jules-verne/drupal/sites/default/files/u7/iceberg_Clevenger.jpeg" -->
 
-How can I learn more?
+---
+
+### Summary
+# Main points
+
+Nowadays' Internet is different than the one 10, 20 or 30 years ago.
+
+The internet of tomorrow will be even more different.
+
+Modern web app is usually divided into front-end and back-end.
+
+No need to reinvent the wheel! Design patterns and conceptions are here to embrace them.
+
+MVC is the basis of modern web frameworks.
+
+REST API allows us to communicate.
+
+Cloud allows you to scale your app horizontally. (?)
+
+Every system can be hacked.
+
+IT projects differ from other engineering projects.
+
+It's worth to be aware of biases and misunderstandings.
+
+There is a lot of different ways to be a Web Wizard.
+
+A must-know tool for every software developer is Git.
+
+Keep in mind the User Experience.
+
+---
+
+### Summary
+# What now?
 
 ## Codecademy
 absolutely top choice for beginners!
@@ -16,6 +50,10 @@ choose your courses wisely :)
 
 ## Github
 reading open source code projects, maybe even contributing!
+
+<!-- .slide: .data-background-image="http://antyweb.pl/wp-content/uploads/2015/08/yt.jpg" -->
+
+<!-- .slide: .data-background-image="https://konklone.com/assets/images/blog/quora/quora-logo.png" -->
 
 ## EESTEC ITT
 we’re developing eestec.net on Angular and Django, major changes coming up - you’re more then welcome to join us 

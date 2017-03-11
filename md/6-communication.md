@@ -25,11 +25,21 @@ obrazek tutaj
 
 Eg. Facebook without Like API and with Like API
 
+![yt](s7wmiS2mSXY)
+
 ---
 
 How does that relate to Programming?
 
 ## Interfaces (in programming)
+
+You remember MVC?
+
+**Not only on backend!**
+
+In API-based solutions: view is the API format.
+Note:
+Backend: M->C->V -----> M->C->V 
 
 
 ---
