@@ -58,7 +58,7 @@ Your reasons for joining us today? :)
 #### Intro
 # Who are we
 
-<!-- .slide: data-background-image="md/1-intro_img/Scared_Harry&Ron.gif" -->
+<!-- .slide: data-background-image="../md/1-intro_img/Scared_Harry&Ron.gif" -->
 ## So this is us
 
 ## Ok so, we're
@@ -66,11 +66,11 @@ Your reasons for joining us today? :)
 - students of MSc in ICT here at AGH <!-- .element: class="fragment" data-fragment-index="2" -->
 - EESTECers for 3rd year now <!-- .element: class="fragment" data-fragment-index="3" -->
 
-<!-- .slide: data-background-image="img/kyn.jpg" -->
+<!-- .slide: data-background-image="../img/kyn.jpg" -->
 
-<!-- .slide: data-background-image="img/fin.jpg" -->
+<!-- .slide: data-background-image="../img/fin.jpg" -->
 
-<!-- .slide: data-background-image="img/hacks.jpg" -->
+<!-- .slide: data-background-image="../img/hacks.jpg" -->
 Note:
 dodac zdj
 - ALOC
@@ -78,11 +78,11 @@ dodac zdj
 - Barca
 - Hackathony
 
-<img src="img/grzanka.jpg" height="200px"></img> <img src="img/wrobel.jpg" height="200px"></img> <br />
+<img src="../img/grzanka.jpg" height="200px"></img> <img src="../img/wrobel.jpg" height="200px"></img> <br />
 <span class="fragment" data-fragment-index="1">Plus guests!</span> <br />
-<img src="img/amozemanaimieprzemek.jpg" height="200px" class="fragment" data-fragment-index="2"></img>
-<img src="img/marek.jpg" height="200px" class="fragment" data-fragment-index="3"></img>
-<img src="img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img>
+<img src="../img/amozemanaimieprzemek.jpg" height="200px" class="fragment" data-fragment-index="2"></img>
+<img src="../img/marek.jpg" height="200px" class="fragment" data-fragment-index="3"></img>
+<img src="../img/katron.jpg" height="200px" class="fragment" data-fragment-index="4"></img>
 
 ---
 
