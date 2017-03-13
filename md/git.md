@@ -4,7 +4,7 @@
 ---
 
 #### Git
-# Why do I care?
+# Why do we care?
 
 You'll see it EVERYWHERE when doing something connected with IT.
 Extremely important!
@@ -16,21 +16,23 @@ Yet some unis don't teach it properly. IDK why. :(
 #### Git
 # Why do we need it?
 
-What makes program a program?
+<!-- .slide: data-background-image="http://www.edselby.com/wp-content/uploads/2013/12/monkey.png" -->
+### A philosophical one:
+### What makes program a program?
 
 Source code. Duh.
 Stored in files and folders.
 
-Cooperation?
-- take turns - you code today, I work on your version tomorrow
-- store your source code on Dropbox! - sure, but you'll override each other's changes
-- separate work on modules - I work on A, you work on B... but they will have to merge it sooner or later!
-- send scrapes of code via FB messenger - xDDD totally works
-- work on one another copies and patch it afterwards - you'll forget what you did a week ago.
-
-How do you make sure:
-- you don't duplicate anyone's work?
-- your code will work with someone else's?
+#### Cooperation?
+- take turns - you code today, I work on your version tomorrow  <!-- .element: class="fragment" data-fragment-index="1" -->
+- store your source code on Dropbox! - sure, but you'll override each other's changes  <!-- .element: class="fragment" data-fragment-index="2" -->
+- separate work on modules - I work on A, you work on B... but they will have to merge it sooner or later!  <!-- .element: class="fragment" data-fragment-index="3" -->
+- send scrapes of code via FB messenger - xDDD totally works  <!-- .element: class="fragment" data-fragment-index="4" -->
+- work on one another copies and patch it afterwards - you'll forget what you did a week ago.  <!-- .element: class="fragment" data-fragment-index="5" -->
+ 
+#### How do you make sure:
+- you don't duplicate anyone's work? <!-- .element: class="fragment" data-fragment-index="1" -->
+- your code will work with someone else's? <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Programmers are lazy. <br />
 Engineers are lazy. <br />
@@ -44,15 +46,15 @@ File is saved in the central **repository**.
 Note:
 draw it. Each one of them work on their working copy. What happens when they both edit? MERGE.
 
-- No overwrites
-- No arguments
-- Nothing is *ever* lost (infinite CTRL+Z)!
+- No overwrites <!-- .element: class="fragment" data-fragment-index="1" -->
+- No arguments <!-- .element: class="fragment" data-fragment-index="2" -->
+- Nothing is *ever* lost (infinite CTRL+Z)! <!-- .element: class="fragment" data-fragment-index="3" -->
 
-- Good to use even when working alone (history, segmentation etc.)
+Also good to use even when working alone (history, segmentation etc.)
 
 Not convinced?
 
-Have you ever worked on a project and made a big change that broke EVRYTHING?
+Have you ever worked on a project and made a big change that broke EVERYTHING?
 And you have no idea what you changed? :D
 
 ---
@@ -60,15 +62,27 @@ And you have no idea what you changed? :D
 #### Git
 # Basic concepts
 
+# Repository
+
+# Branch
+
+# Commit
+
+# Merge
+
+# Pull/push
+
+# Revert
+
 ---
 
 #### Git
-# How to use it?
+# Install
 
 You need a server to store your files.
-- Github
-- Bitbucket
-- Gitlab (self-hosted)
+- Github  <!-- .element: class="fragment" data-fragment-index="1" -->
+- Bitbucket  <!-- .element: class="fragment" data-fragment-index="2" -->
+- Gitlab (self-hosted)  <!-- .element: class="fragment" data-fragment-index="3" -->
 
 You need git on your computer.
 - sudo apt-get install git
@@ -86,3 +100,9 @@ Optional: GUI for Git
 Open source = you can see it, you can edit eat, you can do anything to it.
 
 ![yt](w3jLJU7DT5E)
+
+---
+
+Moar?
+
+Git game.

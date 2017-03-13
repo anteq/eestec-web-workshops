@@ -216,6 +216,7 @@ Suppose that the target site has a redirect.php module that takes a URL as a GET
 - Whitelist the user-defined parameter, but this can be tricky
 
 ---
+
 #### Security
 ### Password cracking
 
@@ -238,3 +239,6 @@ Suppose that the target site has a redirect.php module that takes a URL as a GET
 ## If all above fail you can always guess :)
 
 ![](../md/8-security/use_the_force.jpg)
+
+<!-- .slide: data-background-image="https://media.tenor.co/images/36c122ea688493fd48c9b7b96d3ce3ef/tenor.gif" -->
+
