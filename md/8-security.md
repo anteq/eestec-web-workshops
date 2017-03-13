@@ -6,6 +6,8 @@
 #### Security
 ## A few thoughts
 
+## Validation on frontend vs backend
+
 ### Everyone makes mistakes!
 
 ### One about a few chars that brought Chrome down
@@ -47,6 +49,19 @@ Note:
 1 authentication, 2 Authorization
 https://dzone.com/articles/10-most-common-web-security-vulnerabilities
 
+### Symmetric cryptography
+## Same secret key
+
+### Asymmetric cryptography
+## Pairs of public and private keys for each user
+
+### HTTPS - SSL/TLS
+## SSL - Secure Socket Layer (old-fashioned way) 
+## TLS - Transport Layer Security (current way of tunneling)
+- communications security 
+- privacy 
+- integrity
+
 ---
 
 #### Security
@@ -85,7 +100,7 @@ SQL injection, browser, LDAP server (katalogowanie)
 ### Then in DB you get something like that 
 ![](../md/8-security/Select3.PNG)
 
-<!-- .slide: data-background-image="md/8-security/atom_bomb.jpg" -->
+<!-- .slide: data-background-image="../md/8-security/atom_bomb.jpg" -->
 
 ## 1. Injection Flaws (Prevention)
 - Filter and conquer
@@ -131,6 +146,8 @@ Usually, the workaround is simply converting all HTML entities—so that script 
 - Whitelist the choices
 - store data internally and not rely on it being passed from the client via CGI parameters
 - and use frameworks :)
+Note:
+Another common vulnerability example is a password reset function that relies on user input to determine whose password we're resetting. After clicking the valid URL, an attacker can just modify the username field in the URL to say something like "admin."
 
 ## 5. Security Misconfiguration
 - Running the application with debug enabled in production.
@@ -150,7 +167,8 @@ Usually, the workaround is simply converting all HTML entities—so that script 
 ## 6. Sensitive Data Exposure (Prevention)
 - In transit: Use HTTPS with a proper certificate and PFS (Perfect Forward Secrecy). Do not accept anything over non-HTTPS connections. Have the secure flag on cookies.
 - In storage: This is harder. First and foremost, you need to lower your exposure. If you don't need sensitive data, shred it.
-
+Note:
+PFS - compromise of long-term keys does not compromise past session keys.
 ![](../md/8-security/profound_advice.jpg)
 
 ## 7. Missing Function-Level Access Control 
@@ -160,9 +178,19 @@ Usually, the workaround is simply converting all HTML entities—so that script 
 On the server side, authorization must always be done! Always! I really mean always!
 
 ## 8. Cross Site Request Forgery (CSRF)
-If you are logged in on one tab on your bank's homepage, for example, and they are vulnerable to this attack, another tab can make your browser misuse its credentials on the attacker's behalf, resulting in the confused deputy problem. The deputy is the browser that misuses its authority (session cookies) to do something the attacker instructs it to do.
 Note:
-Fun fact: CSRF is also the method people used for cookie-stuffing in the past until affiliates got wiser.
+If you are logged in on one tab on your bank's homepage, for example, and they are vulnerable to this attack, another tab can make your browser misuse its credentials on the attacker's behalf, resulting in the confused deputy problem. The deputy is the browser that misuses its authority (session cookies) to do something the attacker instructs it to do.
+
+## What is a cookie?
+![](../md/8-security/EvilCookies.jpg)
+Note:
+Small piece of data sent from a website and stored on the user's computer by the user's browser. It's used for websites to remember stateful information (such as items added in the shopping cart or remembering pieces of information that user previously entered into form
+
+## HTTP session token
+#### unique identifier that is generated and sent from a server to a client to identify the current interaction session
+Note:
+Client stores and sends the token as an HTTP cookie and sends it as a parameter in GET or POST queries 
+The reason to use session tokens is that the client only has to handle the identifier—all session data is stored on the server (usually in a database, to which the client does not have direct access) linked to that identifier.
 
 ## 8. Cross Site Request Forgery (CSRF) (Prevention)
 Store a secret token in a hidden form field which is inaccessible from the third-party site
@@ -186,3 +214,27 @@ Suppose that the target site has a redirect.php module that takes a URL as a GET
 - Don't do redirects at all (they are seldom necessary)
 - Have a static list of valid locations to redirect to
 - Whitelist the user-defined parameter, but this can be tricky
+
+---
+#### Security
+### Password cracking
+
+## Dictionary attack (John the Ripper)
+
+## Brute force attack
+
+## Rainbow table attack
+
+## Phishing
+
+## Social engineering
+
+## Malware
+
+## Shoulder surfing
+
+## Spidering
+
+## If all above fail you can always guess :)
+
+![](../md/8-security/use_the_force.jpg)

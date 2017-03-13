@@ -6,10 +6,10 @@
 #### History
 # How'd we get here?
 
-![md/3-history/Confused-Ron.jpg](../md/3-history/Confused-Ron.jpg)
+![../md/3-history/Confused-Ron.jpg](../md/3-history/Confused-Ron.jpg)
 
 ### Let's start nostalgic
-<!-- .slide: data-background-image="md/3-history/Eniac.jpg" style="color:black !important" -->
+<!-- .slide: data-background-image="../md/3-history/Eniac.jpg" style="color:black !important" -->
 <h2 style="color:black">First PCs</h2>
 - not connected
 - space of entire room
@@ -101,7 +101,7 @@ Note:
 The idea was to analyze the interconnections between sites.
 
 ### 1996
-![md/3-history/google.jpg](../md/3-history/google.jpg)
+![../md/3-history/google.jpg](../md/3-history/google.jpg)
 
 ### Late 1990s
 There's money on the table?!
@@ -172,7 +172,7 @@ Note:
 - rzecz do ktorej przestala byc potrzeba posiadania osobnego programu (poczta)
 - do prawie wszystkiego mozna znalezc odpowiednik w necie ktory dziala lepiej lub gorzej ale jest
 
-![md/3-history/cloud.jpg](md/3-history/cloud.jpg)
+![../md/3-history/cloud.jpg](../md/3-history/cloud.jpg)
 
 ## e.g. 
 - Office 365, Google Docs
@@ -193,7 +193,7 @@ Because we use Internet differently, we had to change the way we create the Inte
 - IE -> * \ {IE} <!-- .element: class="fragment" data-fragment-index="4" -->
 - Server-side -> Client-side  <!-- .element: class="fragment" data-fragment-index="5" -->
 
-<!-- .slide: data-background-image="md/3-history/Web_2.0_words.png" -->
+<!-- .slide: data-background-image="../md/3-history/Web_2.0_words.png" -->
 Note:
 - dlaczego lepsze jest nowe podejscie - bo lepiej zeby klient sobie sam poobliczal - odciazenie serwera czyli Java Script
 - WEB2.0 bo social web i pozwolenie klientom tworzyć content
