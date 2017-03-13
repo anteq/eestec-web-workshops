@@ -5,6 +5,8 @@
 
 #### Security
 ## A few thoughts
+Note:
+It's more important than you can imagine
 
 ## Validation on frontend vs backend
 
@@ -26,10 +28,15 @@ Note:
 Amazon Web Services is a giant provider of the back-end of the Internet. For sites like Netflix, Spotify, Pinterest and Buzzfeed, as well as tens of thousands of smaller sites, it provides cloud-based storage and web services for companies so they don’t have to build their own server farms,
 Amazon wasn't able to update its health dashboard because it was hosted in their cloud :)
 It was annual AWSome Day - free online training event that will provide a step-by-step introduction to the core AWS services for compute, storage, database and networking.
+
+### How it happened?
+Note:
 cause of that was a simple typo! Engeeners of S3 team were debugging the billing sysyem. They needed to take samall number of servers offline, but because of typo larger set of servers was removed. Some of the removed servers supported two other S3 subsystems. One of them was responsible for managing metadata and location information of all S3 objects in the region. Without it services taht depend on it couldnt perform basic data retrieval and storage tasks. After taking servers offline the various systems had to do a "full restart". Amazon claims that s3 (simple storage service) was design to handle losing a few servers. What it had more trouble with was handling the massive restart.
 
+![](../md/8-security/typo.jpg)
+
 #### Security
-# Best practices
+## Best practices
 
 <!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/89/fa/06/89fa06b360359633a8d2f3887cd85fe1.jpg" -->
 
@@ -43,21 +50,32 @@ cause of that was a simple typo! Engeeners of S3 team were debugging the billing
 ---
 
 ### Authentication and Authorization is not the same thing!!!
-- (Authentication) Veryfying that a user provided their security credentials correctly
-- (Authorization) Confirming that a particular user has access to a specific resource
+
+### Veryfying that a user provided their security credentials correctly
+![](../md/8-security/Authentication.jpg)
+Note: 
+Authentication
+
+### Confirming that a particular user has access to a specific resource
+![](../md/8-security/Authorization.jpg)
 Note:
-1 authentication, 2 Authorization
-https://dzone.com/articles/10-most-common-web-security-vulnerabilities
+Authorization
 
 ### Symmetric cryptography
 ## Same secret key
+![](../md/8-security/single-key.jpg)
 
-### Asymmetric cryptography
-## Pairs of public and private keys for each user
+## Asymmetric cryptography
+#### Pairs of public and private keys for each user
+![](../md/8-security/key-pair.png)
 
-### HTTPS - SSL/TLS
-## SSL - Secure Socket Layer (old-fashioned way) 
-## TLS - Transport Layer Security (current way of tunneling)
+## HTTPS - SSL/TLS
+
+## SSL - Secure Socket Layer 
+#### old-fashioned way
+## TLS - Transport Layer Security 
+#### current way of tunneling
+Note:
 - communications security 
 - privacy 
 - integrity
@@ -66,6 +84,8 @@ https://dzone.com/articles/10-most-common-web-security-vulnerabilities
 
 #### Security
 # OWASP
+Note:
+https://dzone.com/articles/10-most-common-web-security-vulnerabilities
 
 ### OWASP stands for Open Web Application Security Project
 Note:
@@ -103,18 +123,20 @@ SQL injection, browser, LDAP server (katalogowanie)
 <!-- .slide: data-background-image="../md/8-security/atom_bomb.jpg" -->
 
 ## 1. Injection Flaws (Prevention)
+### Rely on framework's filtering functions (like Przemek and Marek did yesterday)
 - Filter and conquer
 - Never use a blacklist - hard to create, easy to bypass
-- Rely on framework's filtering functions
 - Prepared statements
 
 ### Prepared statement
 #### Simply seperate data and code
+<br />
 ![](../md/8-security/Select4.PNG)
 ![](../md/8-security/execute.PNG)
 
 ## 2. Broken Authentication 
 - Today nobody roll their own authentication code because it is to hard
+
 ### Possible problems:
 - The URL might contain the session ID and leak it in the referer header to someone else
 - The passwords might not be encrypted either in storage or transit
@@ -133,17 +155,17 @@ An attacker gives your web application JavaScript tags on input. When this input
 ### One about a XSS security hole in Twitter
 https://www.youtube.com/watch?v=zv0kZKC6GAM
 
-## 3. Cross Site Scripting (XSS) (Prevention)
 ### DO NOT return HTML tags to the client
+## 3. Cross Site Scripting (XSS) (Prevention)
 Note:
 Usually, the workaround is simply converting all HTML entities—so that script is returned as <>script <>. The other often employed method of sanitization is using regular expressions to strip away HTML tags using regular expressions on < and >, but this is dangerous. A lot of browsers will interpret severely broken HTML just fine. Better to convert all characters to their escaped counterparts. 
 
 ## 4. Insecure Direct Object References
-### Internal object such as a file or database key is exposed to the user
+#### Internal object such as a file or database key is exposed to the user
 
 ## 4. Insecure Direct Object References (Prevention)
-- Perform user authorization properly and consistently
-- Whitelist the choices
+- perform user authorization properly and consistently
+- whitelist the choices
 - store data internally and not rely on it being passed from the client via CGI parameters
 - and use frameworks :)
 Note:
@@ -162,7 +184,7 @@ Another common vulnerability example is a password reset function that relies on
 
 ## 6. Sensitive Data Exposure
 ### Sensitive data should be encrypted at all times, including in transit and at rest
-###  Credit card information and user passwords should never travel or be stored unencrypted, and passwords should always be hashed
+### Credit card information and user passwords should never travel or be stored unencrypted, and passwords should always be hashed
 
 ## 6. Sensitive Data Exposure (Prevention)
 - In transit: Use HTTPS with a proper certificate and PFS (Perfect Forward Secrecy). Do not accept anything over non-HTTPS connections. Have the secure flag on cookies.
@@ -198,7 +220,6 @@ Store a secret token in a hidden form field which is inaccessible from the third
 ## 9. Using Components With Known Vulnerabilities
 Note:
 The title says it all. Again, I'd classify this as more of a maintenance/deployment issue. Before incorporating new code, do some research, possibly some auditing. Using code that you got from a random person on GitHub or some forum might be very convenient, but is not without risk of serious web security vulnerability.
-I have seen many instances, for example, where sites got owned (i.e., where an outsider gains administrative access to a system), not because the programmers were stupid, but because a third-party software remained unpatched for years in production. This is happening all the time with WordPress plugins, for example. If you think they will not find your hidden phpMyAdmin installation, let me introduce you to DirBuster.
 The lesson here is that software development does not end when the application is deployed. There has to be documentation, tests, and plans on how to maintain and keep it updated, especially if it contains third-party or open-source components.
 
 ## 9. Using Components With Known Vulnerabilities (Prevention)
@@ -220,19 +241,24 @@ Suppose that the target site has a redirect.php module that takes a URL as a GET
 #### Security
 ### Password cracking
 
-## Dictionary attack (John the Ripper)
-
 ## Brute force attack
 
+## Dictionary attack (John the Ripper)
+![](../md/8-security/dictionary.png)
+
 ## Rainbow table attack
+Note:
+Exchanging computation power for storage - long list of hashes
 
 ## Phishing
+![](../md/8-security/fishing.jpg)
 
 ## Social engineering
 
 ## Malware
 
 ## Shoulder surfing
+![](../md/8-security/fishing.jpg)
 
 ## Spidering
 
@@ -241,4 +267,3 @@ Suppose that the target site has a redirect.php module that takes a URL as a GET
 ![](../md/8-security/use_the_force.jpg)
 
 <!-- .slide: data-background-image="https://media.tenor.co/images/36c122ea688493fd48c9b7b96d3ce3ef/tenor.gif" -->
-
