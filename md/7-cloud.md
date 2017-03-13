@@ -185,7 +185,22 @@ Used by Zendesk, Heroku, BitTorrent and many many more...
 #### Scaling up
 # Blocked pipes
 
-MQ to the rescue!
+MQ to the rescue! <br />
+(draw it)
+
+---
+
+#### Scaling up
+# Managing dependencies
+
+Libraries, bundles, gems?!
+
+---
+
+#### Scaling up
+# Caching
+
+...
 
 ---
 

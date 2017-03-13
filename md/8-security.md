@@ -186,3 +186,8 @@ Suppose that the target site has a redirect.php module that takes a URL as a GET
 - Don't do redirects at all (they are seldom necessary)
 - Have a static list of valid locations to redirect to
 - Whitelist the user-defined parameter, but this can be tricky
+
+---
+
+<!-- .slide: data-background-image="https://media.tenor.co/images/36c122ea688493fd48c9b7b96d3ce3ef/tenor.gif" -->
+## IN!
