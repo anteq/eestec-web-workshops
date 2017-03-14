@@ -226,17 +226,22 @@ Take into consideration e.g. http://agar.io/
 Ok, now how it's made?
 
 ## Basic scenario
+Note:
 - C -> S: Gimme sumfin [GET /sumfin]
 - S -> C: OK, sure [200 OK]
 
 ## But...
+Note:
 This is impossible: <br />
 S -> C: Hey man, I have sumfin for you! [?????]
+
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/b9/fc/0a/b9fc0a2c279b96c3286f0a982518500e.gif" -->
 
 HTTP is a client-server protocol. Client *requests* and server *responds*, never the other way around. <br />
 Luckily, we can try to hack it.
 
 ### Hack number 1 - frequent requests
+Note:
 - C -> S: Hey man, u have sumfin for me? [GET /sumfin]
 - S -> C: Nope [404 Not Found]
 - (1 sec later)
@@ -247,6 +252,7 @@ Luckily, we can try to hack it.
 - S -> C: OK, sure [200 OK]
 
 ### Hack number 2 - long polling
+Note:
 - C -> S: Hey man, if you'll have something for me just lemme know [GET /sumfin]
 - S: (...)
 - S -> C: Ok, here you are [200 OK]

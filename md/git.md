@@ -77,6 +77,19 @@ And you have no idea what you changed? :D
 ---
 
 #### Git
+# Typical workflow
+
+git pull
+
+git add ...
+
+git commit
+
+git push
+
+---
+
+#### Git
 # Install
 
 You need a server to store your files.
@@ -94,15 +107,48 @@ Optional: GUI for Git
 
 ---
 
+#### Git
+# Let's do it!
+
+
+
+---
+
 ### Git
 # Open source
 
-Open source = you can see it, you can edit eat, you can do anything to it.
+Open source = you can see it, you can edit it, you can do anything to it.
 
 ![yt](w3jLJU7DT5E)
+
+Issues
+
+Pull requests
 
 ---
 
 Moar?
 
-Git game.
+![Git Game 1](https://github.com/git-game/git-game) && 
+![Git Game 2](https://github.com/git-game/git-game-v2)
+
+
+---
+
+### Git
+# Your own page
+
+You already saw it yesterday! 
+Note:
+It was an app on Heroku. But here you can also deploy really simple pages using gh-pages.
+
+An example of CV on GitHub! :)
+https://github.com/jglovier/resume-template
+Note:
+Create Github account.
+Fork the repo.
+Clone your repo.
+Change stuff.
+Commit stuff.
+TADA.
+
