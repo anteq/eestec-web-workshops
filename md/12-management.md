@@ -126,8 +126,10 @@ truth is in between :)
 # Hype
 
 Gartner's hype cycle
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/320px-Gartner_Hype_Cycle.svg.png
-http://blogs.gartner.com/smarterwithgartner/files/2015/10/EmergingTech_Graphic.png
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/320px-Gartner_Hype_Cycle.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/320px-Gartner_Hype_Cycle.svg.png)
+
+![http://blogs.gartner.com/smarterwithgartner/files/2015/10/EmergingTech_Graphic.png](http://blogs.gartner.com/smarterwithgartner/files/2015/10/EmergingTech_Graphic.png)
 
 ---
 
@@ -137,3 +139,44 @@ http://blogs.gartner.com/smarterwithgartner/files/2015/10/EmergingTech_Graphic.p
 Every student's worst nightmare... do you know what it is?
 
 [It's here.](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=pl)
+
+---
+
+#### Psychology & IT
+# Some tools.
+
+It's good to do some project management tools. <br />
+Apparently, this is what they're for.
+
+![https://availagility.files.wordpress.com/2008/10/2-tier-kanban-1.png](https://availagility.files.wordpress.com/2008/10/2-tier-kanban-1.png)
+## Kanban table
+
+![https://ga1.imgix.net/screenshot/o/Foreman_12239799_1961_trel2_540x304.jpeg?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format](https://ga1.imgix.net/screenshot/o/Foreman_12239799_1961_trel2_540x304.jpeg?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format)
+# trello.com
+#### a kanban-like table
+
+![https://wac-cdn.atlassian.com/software/jira/main/09/columns/00/content/0/localUpload/Release_Hub@2x.png.png?cdnVersion=dj](https://wac-cdn.atlassian.com/software/jira/main/09/columns/00/content/0/localUpload/Release_Hub@2x.png.png?cdnVersion=dj)
+# Jira
+#### a commercial monster
+
+![http://ecommtalk.com/assets/img/slack-screen-shot-transparent.png](http://ecommtalk.com/assets/img/slack-screen-shot-transparent.png)
+# Slack
+#### a cool tool to communicate
+
+![http://3.bp.blogspot.com/-LJElszTg2HE/UFYWAZZl0rI/AAAAAAAAFHA/MdDyIdd7pAw/s1600/Screen+Shot+2012-09-16+at+1.09.00+PM.png](http://3.bp.blogspot.com/-LJElszTg2HE/UFYWAZZl0rI/AAAAAAAAFHA/MdDyIdd7pAw/s1600/Screen+Shot+2012-09-16+at+1.09.00+PM.png()
+# Google Drive
+#### share some stuff
+
+![http://karieranaobcasach.com/wp-content/uploads/2015/02/Doodle.png](http://karieranaobcasach.com/wp-content/uploads/2015/02/Doodle.png)
+# Google Drive
+#### share some stuff
+
+Some thoughts:
+- it's good to set deadlines <!-- .element: class="fragment" data-fragment-index="1" -->
+- make sure that the person responsible for the task knows the task <!-- .element: class="fragment" data-fragment-index="2" -->
+- projects sometimes don't go the way that is planned <!-- .element: class="fragment" data-fragment-index="3" -->
+- keeping the people motivated is a challenge!  <!-- .element: class="fragment" data-fragment-index="4" -->
+
+Remember:
+Even for the hardest part in project management in IT is estimating the time for the task.
+

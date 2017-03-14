@@ -7,6 +7,64 @@ Internet = communication. XD
 ---
 
 #### Communication
+# Structure
+<!-- .slide: data-background-image="http://vignette3.wikia.nocookie.net/matrix/images/9/9c/Matrix_Code.gif/revision/latest/scale-to-width-down/800?cb=20110306191618" -->
+
+As was said before: *programmers like to abstract*.
+
+- Design Patterns
+- Django
+- Python
+- C
+- Assembly code 
+- Machine code
+- Maths, Logic, Physics...
+
+There's something like ISO/OSI model. You remember that from uni? 
+But why do we need it? Do we need it?
+
+## ISO/OSI
+- Please note that this is an incredible simplification!
+
+### Physical layer...
+is the postmen and their trucks - this is how the letters actually get from point A to point B. 
+
+### Data link layer...
+is the envelope - you can't just put a handwritten letter in a mailbox and expect it to be sent somewhere. 
+
+### Network layer...
+is the address on the envelope - the post needs to know where to deliver the letter. This establishes a connection between two residences. 
+
+### Transport layer...
+is a name on the envelope - once it gets inside your house, it needs to be given to the correct person. 
+
+### Session layer...
+is a standard letter format - this includes dating the letters, saying "dear so-and-so" and "yours truly." 
+
+### Presentation layer...
+is the body of the letter itself - let's make sure both parties are writing in English.
+
+### Application layer...
+is the collection of letters exchanged - the point of the previous six layers was to enable the pen pal relationship between two people. 
+
+![http://gargasz.info/OSI-model/OSI_2014.jpg](http://gargasz.info/OSI-model/OSI_2014.jpg)
+Note:
+Metaphore with translation of the languages. Antek: "Lubie kroliki" => "I like Rabbits" => wyslij na maila do Stefana => sru mail => "I like Rabbits" => "J'aime les lapins"
+
+<!-- .slide: data-background-image="http://i.imgur.com/qhnJO.gif" -->
+## IT'S MODULAR!!!!1!!1
+Note:
+And applicable to all sorts of digital communication. Phones, owls, you name it.
+
+## TCP/IP
+- simplified version of ISO/OSI for the Internet
+- just 4 layers
+
+![http://www.cellbiol.com/bioinformatics_web_development/wp-content/uploads/2017/01/data_transmission_over_the_internet_through_tcp-ip.png](http://www.cellbiol.com/bioinformatics_web_development/wp-content/uploads/2017/01/data_transmission_over_the_internet_through_tcp-ip.png)
+
+---
+
+#### Communication
 # API
 
 API = Application Programming Interface
@@ -29,56 +87,19 @@ Eg. Facebook without Like API and with Like API
 
 ---
 
-How does that relate to Programming?
-
-## Interfaces (in programming)
-
-You remember MVC?
-
-**Not only on backend!**
-
-In API-based solutions: view is the API format.
-Note:
-Backend: M->C->V -----> M->C->V 
-
----
-
-Imagine, how should we structure such API?
+#### Communication
+# Keep it clean
 
 E.g. Facebook
 User may want to:
 - add post
-- get posts on wall
-
-## Exercise
-Try to imagine how such API would work?
-
----
-
-How do we use it?
-
-![http://wrzuc.se/images/58bb04175b52a.png](http://wrzuc.se/images/58bb04175b52a.png) 
-Note: 
-Przerobić obrazek
-
-![http://wrzuc.se/images/58bb0470ab930.png](http://wrzuc.se/images/58bb0470ab930.png)
-
-![http://wrzuc.se/images/58bb049d47995.png](http://wrzuc.se/images/58bb049d47995.png)
-
-![http://wrzuc.se/images/58bb04d9a8f83.png](http://wrzuc.se/images/58bb04d9a8f83.png)
-
-https://www.slideshare.net/jmusser/j-musser-apishotnotgluecon2012/43-API_Business_Models
-
-
----
-
-#### Communication
-# Keep it clean
+- get posts on wall <br />
+Imagine, how should we structure such API?
 
 How do we make sure that's not a mess?
 
-# REST 
-no, we won't xdd
+<!-- .slide: data-background-image="https://68.media.tumblr.com/1e4bca3a5186480aea888d8961446112/tumblr_nmm815XOdm1rur0zxo1_500.gif" -->
+# REST
 
 REST = REpresentational State Transfer
 
@@ -94,6 +115,23 @@ CRUD also known as HTTP verbs
 ### HATEOAS (Hypermedia As The Engine Of Application State)
 Note:
 The principle is that a client interacts with a network application entirely through hypermedia provided dynamically by application servers.
+
+---
+
+How do we use it?
+
+![http://wrzuc.se/images/58bb04175b52a.png](http://wrzuc.se/images/58bb04175b52a.png) 
+Note: 
+Przerobić obrazek
+
+![http://wrzuc.se/images/58bb0470ab930.png](http://wrzuc.se/images/58bb0470ab930.png)
+
+![http://wrzuc.se/images/58bb049d47995.png](http://wrzuc.se/images/58bb049d47995.png)
+
+![http://wrzuc.se/images/58bb04d9a8f83.png](http://wrzuc.se/images/58bb04d9a8f83.png)
+
+Courtesy of:
+https://www.slideshare.net/jmusser/j-musser-apishotnotgluecon2012/43-API_Business_Models
 
 ---
 
@@ -156,64 +194,6 @@ customer:
     given:   Dorothy
     family:  Gale
 ```
-
----
-
-#### Communication
-# Structure
-<!-- .slide: data-background-image="http://vignette3.wikia.nocookie.net/matrix/images/9/9c/Matrix_Code.gif/revision/latest/scale-to-width-down/800?cb=20110306191618" -->
-
-As was said before: *programmers like to abstract*.
-
-- Design Patterns
-- Django
-- Python
-- C
-- Assembly code 
-- Machine code
-- Maths, Logic, Physics...
-
-There's something like ISO/OSI model. You remember that from uni? 
-But why do we need it? Do we need it?
-
-## ISO/OSI
-- Please note that this is an incredible simplification!
-
-### Physical layer...
-is the postmen and their trucks - this is how the letters actually get from point A to point B. 
-
-### Data link layer...
-is the envelope - you can't just put a handwritten letter in a mailbox and expect it to be sent somewhere. 
-
-### Network layer...
-is the address on the envelope - the post needs to know where to deliver the letter. This establishes a connection between two residences. 
-
-### Transport layer...
-is a name on the envelope - once it gets inside your house, it needs to be given to the correct person. 
-
-### Session layer...
-is a standard letter format - this includes dating the letters, saying "dear so-and-so" and "yours truly." 
-
-### Presentation layer...
-is the body of the letter itself - let's make sure both parties are writing in English.
-
-### Application layer...
-is the collection of letters exchanged - the point of the previous six layers was to enable the pen pal relationship between two people. 
-
-![http://gargasz.info/OSI-model/OSI_2014.jpg](http://gargasz.info/OSI-model/OSI_2014.jpg)
-Note:
-Metaphore with translation of the languages. Antek: "Lubie kroliki" => "I like Rabbits" => wyslij na maila do Stefana => sru mail => "I like Rabbits" => "J'aime les lapins"
-
-<!-- .slide: data-background-image="http://i.imgur.com/qhnJO.gif" -->
-## IT'S MODULAR!!!!1!!1
-Note:
-And applicable to all sorts of digital communication. Phones, owls, you name it.
-
-## TCP/IP
-- simplified version of ISO/OSI for the Internet
-- just 4 layers
-
-![http://www.cellbiol.com/bioinformatics_web_development/wp-content/uploads/2017/01/data_transmission_over_the_internet_through_tcp-ip.png](http://www.cellbiol.com/bioinformatics_web_development/wp-content/uploads/2017/01/data_transmission_over_the_internet_through_tcp-ip.png)
 
 ---
 

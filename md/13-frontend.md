@@ -243,6 +243,16 @@ warto podać przykłady !!!!!!!!!!!!!!!
 ### Frontend
 # Modern JS
 
+You remember API?
+
+**Not only on backend!**
+
+In API-based solutions: view is the API format.
+Note:
+Backend: M->C->V -----> M->C->V 
+
+---
+
 ## WebGL because we CAN!
 ### JS extension
 ### 3D graphics
