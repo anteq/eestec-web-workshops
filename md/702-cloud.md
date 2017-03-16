@@ -1,7 +1,7 @@
 #### Scaling up
-# And the cloud...
+# And about the cloud...
 
-Amazon
+Amazon <br />
 ![yt](jOhbTAU4OPI)
 
 [https://console.aws.amazon.com/s3/home?region=eu-central-1#](https://console.aws.amazon.com/s3/home?region=eu-central-1#)
