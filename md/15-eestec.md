@@ -15,28 +15,25 @@
 #### IT in EESTEC
 # eestec.net
 
-Django
+[What was before?](https://web.archive.org/web/*/http://eestec.net)
 
-Angular
+<!-- .slide: data-background-image="http://wrzuc.se/images/58cbb8927c8f6.png" -->
 
-Seba
+<!-- .slide: data-background-image="http://wrzuc.se/images/58cbb8ac66651.jpg" -->
 
----
+We use Django and Angular.
 
-#### IT in EESTEC
-# eestec.net
-
-Django
-
-Angular
-
-Seba
+[If you'd like to take a peek...](https://github.com/eestecitt/eestecnet)
 
 ---
 
 #### IT in EESTEC
-# Mail systems
+# Other stuff
 
-spam
+EESTEch Challenge site
 
-spamassasins
+Congress's sites
+
+Mailing systems (spam!!!)
+
+Administration

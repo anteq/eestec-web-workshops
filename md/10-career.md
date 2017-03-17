@@ -6,10 +6,13 @@
 #### Career in IT
 # Students & work
 
-https://68.media.tumblr.com/1e4bca3a5186480aea888d8961446112/tumblr_nmm815XOdm1rur0zxo1_500.gif
+Please note, this all are our personal opinions and 
+Note:
+dU1xS07N-FA
 
-### A few words of advice...
-![yt](dU1xS07N-FA)
+So... are you ready to work as soon as possible?
+
+<!-- .slide: data-background-image="http://i.imgur.com/3npyYmg.gif" -->
 
 ## Are you too young to work?
 - You are students <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -35,7 +38,8 @@ Unless you really want to. If you have big chance.
 ## You don't like your current job? Don't be afraid to change it for a different one!
 
 <!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/31/37/96/31379679fe3c883d3cdcbd97df8f1352.gif" -->
-# IT sector is veeeery spoiled. Too spoiled.
+### IT sector is veeeery spoiled. Too spoiled*.
+#### * - personal opinion
 
 ### Web Development
 - relatively easy to begin with
@@ -149,6 +153,7 @@ Note:
 Take pride in your work. Keep your code neat and organized, but don’t try to ‘pre-optimize’. Just start writing, and clean as you go. It will help you immensely. Comment things as you learn them, so you can start remembering what things do.
 
 ### Ask for proper price for proper quality.
+Note:
 Start volunteering to do projects for others. You’ll start gaining real work experience, while simultaneously building your portfolio and professional network. This will prove invaluable when it’s time to apply for your first job.
 Join a meetup. Check Meetup for local organizations, and attend meetups. Start building your network and find others to work with. Make friends and work on things together! Share knowledge, and help each other out. This is very important!
 Don’t be discouraged. Programming requires a lot of patience, and the ability to learn on your own. I always think of myself as a professional student.
@@ -166,6 +171,8 @@ And when you'll already have clients...
 ### Don’t take jobs that are too big.
 
 ### Avoid bad clients. You can afford it.
+
+<!-- .slide: data-background-image="https://68.media.tumblr.com/5a44f79637a0b1b5a595490fd0d8b71b/tumblr_nnhjbqVa2o1sh0yuao1_500.gif" -->
 
 ### You will get most business from referrals.
 
@@ -216,6 +223,7 @@ Even for the hardest part in project management in IT is estimating the time for
 #### Career in IT
 # Future 
 
+<!-- .slide: data-background-image="https://media.giphy.com/media/piKXr2hEDsO1G/giphy.gif" -->
 ## What future has planned for you?
 Note:
 Można ich zapytać gdzie widzą się za 20 lat
