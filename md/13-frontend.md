@@ -36,11 +36,15 @@ Remember the building blocks?
 - low internet speed as a constraint
 - text based (no funny kittens pictures)
 
+<!-- .slide: data-background-image="https://i.kinja-img.com/gawker-media/image/upload/s--iKy29BwN--/18s14vugshn3sjpg.jpg" -->
+
 ## Middle ages 
 - GIF fever 
 - table-based layouts
 - page hit counters
 - animated text
+
+<!-- .slide: data-background-image="https://s3.amazonaws.com/media-p.slid.es/uploads/marcosplacona/images/545172/lings_cars.gif" -->
 
 ## Renaissance
 - Flash
@@ -51,11 +55,15 @@ Remember the building blocks?
 Note:
 dodać filmik z yt albo gif z flashem (queen)
 
+<!-- .slide: data-background-image="http://www.zanetinewebdesign.com/wp-content/uploads/2009/08/pic2-1023x706.jpg" -->
+
 ## The Enlightenment
 - separation of content and design (css)
 - websites easier to maintain, more flexible and quicker to load 
 - links began to attach to icons rather than text 
 - usability started to become more important than other design elements
+
+<!-- .slide: data-background-image="http://www.objectivistliving.com/forums/olimages/NB-Facebook-July28-2009.jpg" -->
 
 ## The Industrial Revolution
 - WEB2.0
@@ -65,11 +73,15 @@ dodać filmik z yt albo gif z flashem (queen)
 - better color distribution, increased use of icons, and greater attention to typography
 - design became about content
 
+![https://v4-alpha.getbootstrap.com/examples/screenshots/jumbotron.jpg](https://v4-alpha.getbootstrap.com/examples/screenshots/jumbotron.jpg)
+
 ## Modern Days
 - well... you can see for yourself 
 - UX
 - infinite scrolling 
 - SPA
+
+<!-- .slide: data-background-image="https://colorlib.com/wp/wp-content/uploads/sites/2/simplicity-flat-wordpress-template.jpg" -->
 
 ---
 
@@ -166,6 +178,8 @@ JavaScript works in a browser.
 
 <!-- .slide: data-background-image="https://admin.mashable.com/wp-content/gallery/productivity-gifs/community-idea.gif" -->
 
+Y'all can trigger JS console in your browser using F12.
+
 <!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/b2/56/8e/b2568e20328938e4286ee907762bf4e4.gif" -->
 ### People say that it's poorly designed, but...
 Note:
@@ -200,7 +214,6 @@ Actually... Javascript = ECMAScript.
 - but if you are language purist... you will use it anyway
 Note:
 - Jquery - najpopularniejsza biblioteka JS - po to, żeby ułatwić życie developerowi
-PRZYKŁAD
 - czyli sprawdzanie z jakiej przeglądarki korzystamy
 - dzisiaj juz nie ma takich różnic - największe róznice w css ale wciąż Jquery jest bardzo popularne bo ma wiele pluginów (gotowców) z których łatwo można korzystać
 - Antek jest purystą jezykowym dlatego jesli nie musi korzystac z Jquery to tego nie robi
@@ -210,11 +223,9 @@ PRZYKŁAD
 #### Frontend
 # DOM
 
-# DOM
-## House on a tree
-Note:
-- drzewo DOM - html to drzewo, style zczytywane do odpowiednich miejsc w drzewach, JS może operowac na tym wszystkim w jaki sposób jej się podoba
-- narysować
+DOM = Document Object Model
+
+![http://www.openbookproject.net/tutorials/getdown/css/images/lesson4/HTMLDOMTree.png](http://www.openbookproject.net/tutorials/getdown/css/images/lesson4/HTMLDOMTree.png)
 
 ## History digression 
 - At the beginning there was no DOM standard so Netscape and Microsoft made their own incompatible implementations
@@ -224,7 +235,7 @@ Note:
 ---
 
 #### Frontend 
-# Issues
+# Browsers
 
 <!-- .slide: data-background-image="https://media.tenor.co/images/88ea617faa7436f1cbee99d6aac57151/raw" -->
 ## Chrome, Firefox, Safari, Internet Explorer...
@@ -232,11 +243,40 @@ Note:
 dodać zdjęcie
 dla web developera dużym problem jest różnorodność przeglądarkowa - niektóre rzeczy się inaczej renderują w róznych przeglądarkach (PRZYKŁAD!!)
 
+![https://www.smashingmagazine.com/wp-content/uploads/2010/06/forms-browsers.jpg](https://www.smashingmagazine.com/wp-content/uploads/2010/06/forms-browsers.jpg)
+
+[Stats](http://gs.statcounter.com/)
+
+```
+element {
+    -moz-border-radius: 2em;
+    -ms-border-radius: 2em;
+    -o-border-radius: 2em;
+    -webkit-border-radius: 2em;
+}
+```
+
+```
+element {
+    border-radius: 2em;
+}
+```
+
 ## Everybody hates IE6
 Note:
 śmieszne zdjęcie
 - IE6 - największy koszmar programisty - brak wsparcia dla nowych funkcjonalności, wszystkie starsze przeglądarki zostały wycofane z użytku
 warto podać przykłady !!!!!!!!!!!!!!!
+
+![http://static2.hypable.com/wp-content/uploads/2015/03/IE11.jpg](http://static2.hypable.com/wp-content/uploads/2015/03/IE11.jpg)
+
+![http://img.memecdn.com/Internet-explorer_o_110439.jpg](http://img.memecdn.com/Internet-explorer_o_110439.jpg)
+
+![http://i.imgur.com/1VIbP.png](http://i.imgur.com/1VIbP.png)
+
+### caniuse.com
+![https://meta-s3-cdn.global.ssl.fastly.net/original/3X/0/a/0a0fcf288da6a9512311680fa6b1e85000b165a6.png](https://meta-s3-cdn.global.ssl.fastly.net/original/3X/0/a/0a0fcf288da6a9512311680fa6b1e85000b165a6.png)
+
 
 ---
 
@@ -251,29 +291,32 @@ In API-based solutions: view is the API format.
 Note:
 Backend: M->C->V -----> M->C->V 
 
----
-
 ## WebGL because we CAN!
-### JS extension
-### 3D graphics
-- webGL
+- JS extension
+- 3D graphics
+- ![click blik lol](http://www.webglgames.com/cube-slam/)
 Note:
 gra w 3D
-http://www.webglgames.com/cube-slam/
 
-## ES6
-todo
+### Minification & uglification
+
+<!-- .slide: data-background="white" -->
+![http://blog.jamesdbloom.com/images_2013_11_17_17_56/minification.png](http://blog.jamesdbloom.com/images_2013_11_17_17_56/minification.png)
+
+# ES6
+
+<!-- .slide: data-background="white" -->
+![https://derickbailey.com/wp-content/uploads/2015/08/arrow-functions.jpg](https://derickbailey.com/wp-content/uploads/2015/08/arrow-functions.jpg)
 
 # Typing
 Javascript is not typed. Hot or not?
 
-## Going deeper in JS
-- it's evolving so there are some functionalities not supported by all browsers
-- trans(com)pilation
-- minification
-Note:
-- w nowych wersjach JS są funkcjonalnosci które jeszcze nie są wspierane przez wszystkie przeglądarki
-- transpilacja - przetworzenie kodu w taki sposób, że nowa składania zostaje zamieniona w starą żeby nie powodować problemów
+There're languages like TypeScript.
+
+## Transpilation
+
+<!-- .slide: data-background="white" -->
+![https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2016/05/Transpilation.png](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2016/05/Transpilation.png)
 
 ---
 
@@ -303,25 +346,11 @@ However - **you should learn Vanilla JS whenever possible**.
 - by Facebook
 - blah blah
 
----
-
-### Frontend
-# PHP
-
-## Who doesn't love PHP?
-- PHP is designed to be an HTML templating language (and maybe should have stayed that way)
-- “You can write great code in any language.” Yeah, and Leonardo could’ve produced great art with human shit, if he cared to, but he knew better.
-- it is relatively easy to deploy easy website
-- nowadays so many alternatives 
-Note:
-do poprawki
-- Dawniej moda na php - przyklad jak dziala php i to jak jest dzisiaj
-- bardzo wazny jest jasny i prosty przyklad
-
 --- 
 
 ### Why not to make a computer with just browser capabilities?
 ![md/3-history/chromebook.jpg](md/3-history/chromebook.jpg)
+
 ### Quick test:
 ### In your everyday life when last time you didn't have a browser opened in background?
 Note:

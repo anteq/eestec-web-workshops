@@ -51,9 +51,20 @@ choose your courses wisely :)
 ## Github
 reading open source code projects, maybe even contributing!
 
-<!-- .slide: .data-background-image="http://antyweb.pl/wp-content/uploads/2015/08/yt.jpg" -->
+<!-- .slide: data-background-image="http://antyweb.pl/wp-content/uploads/2015/08/yt.jpg" -->
+## Embrace Youtube!
 
-<!-- .slide: .data-background-image="https://konklone.com/assets/images/blog/quora/quora-logo.png" -->
+<!-- .slide: data-background-image="https://konklone.com/assets/images/blog/quora/quora-logo.png" -->
+## Embrace Quora!
+
+Damian Hanusiak from LC Kraków has created a "bundle" of useful stuff for you: [here](https://docs.google.com/document/d/154PGrCd2eolXzc_60V2vEA0VUfNtm-ompNJOfR2wM6w/edit) :).
 
 ## EESTEC ITT
 we’re developing eestec.net on Angular and Django, major changes coming up - you’re more then welcome to join us 
+
+---
+
+### Summary
+# Thanks!
+
+<!-- .slide: data-background-image="https://media.giphy.com/media/awpqNsKuFtXI4/giphy.gif" -->

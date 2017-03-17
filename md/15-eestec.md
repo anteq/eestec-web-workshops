@@ -7,6 +7,20 @@
 # IT team
 
 <!-- .slide: data-background-image="http://wrzuc.se/images/58c3f03d3743c.jpg" -->
+
+[IT team](https://eestec.net/teams/it-team/)
+
+---
+
+#### IT in EESTEC
+# eestec.net
+
+Django
+
+Angular
+
+Seba
+
 ---
 
 #### IT in EESTEC
