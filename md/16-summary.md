@@ -3,6 +3,8 @@
 
 <!-- .slide: data-background-image="http://www.spindrift-racing.com/jules-verne/drupal/sites/default/files/u7/iceberg_Clevenger.jpeg" -->
 
+<!-- .slide: data-background-image="https://s-media-cache-ak0.pinimg.com/originals/d0/d2/bb/d0d2bbfc294763a6e9a527d1884d556a.gif" -->
+
 ---
 
 ### Summary

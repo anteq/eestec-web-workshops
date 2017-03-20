@@ -236,18 +236,18 @@ Można ich zapytać gdzie widzą się za 20 lat
 - Other IT field?
 
 ## But how does he find time to code?
-### Easy - he doesnt! O.o
+### Easy - he doesn't!
 
 ## We're only human after all
 - You don't have to be awesome at everything
 - You have the luxury of defining your own path by yourself
 
-## Fear corpo career path
-- Senior developer into IT Lead transition
+## Fear of corpo career path
+- Senior developer -> IT Lead transition
 - But not everybody has Leader qualities
-# Outcome:
-It's quite common to be thrown into doing things you don't have to be good at
+- Outcome: it's quite common to be thrown into doing things you don't have to be good at
 
 ## Not being on Manager seat can also be fullfilling
+- e.g. mentoring :)
 
 
